@@ -1,0 +1,3802 @@
+[
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apple.jpg",
+    "filename": "apple.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.8276811242103577,
+        "percentage": 82.76811242103577
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 2",
+        "confidence": 0.1256331205368042,
+        "percentage": 12.56331205368042
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.029345665127038956,
+        "percentage": 2.9345665127038956
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:01.120844"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apple1.jpg",
+    "filename": "apple1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.8276811242103577,
+        "percentage": 82.76811242103577
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 2",
+        "confidence": 0.1256331205368042,
+        "percentage": 12.56331205368042
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.029345665127038956,
+        "percentage": 2.9345665127038956
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:01.242056"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apple2.jpg",
+    "filename": "apple2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.7731865644454956,
+        "percentage": 77.31865644454956
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.05826956406235695,
+        "percentage": 5.826956406235695
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.030154990032315254,
+        "percentage": 3.0154990032315254
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:01.356935"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples1.jpg",
+    "filename": "apples1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.7433452010154724,
+        "percentage": 74.33452010154724
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.08385105431079865,
+        "percentage": 8.385105431079865
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.06946709752082825,
+        "percentage": 6.946709752082825
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:01.486096"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples2.jpg",
+    "filename": "apples2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.16548916697502136,
+        "percentage": 16.548916697502136
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.1628975123167038,
+        "percentage": 16.28975123167038
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.1158306747674942,
+        "percentage": 11.58306747674942
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:01.621791"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples3.jpg",
+    "filename": "apples3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.9206869602203369,
+        "percentage": 92.06869602203369
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.03330729529261589,
+        "percentage": 3.330729529261589
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.015406888909637928,
+        "percentage": 1.5406888909637928
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:01.756377"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples4.jpg",
+    "filename": "apples4.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.4075782597064972,
+        "percentage": 40.75782597064972
+      },
+      {
+        "rank": 2,
+        "class": "Lychee 1",
+        "confidence": 0.17883485555648804,
+        "percentage": 17.883485555648804
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.09183335304260254,
+        "percentage": 9.183335304260254
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:01.894378"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples5.jpg",
+    "filename": "apples5.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.451541543006897,
+        "percentage": 45.1541543006897
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.363492488861084,
+        "percentage": 36.3492488861084
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.05419006198644638,
+        "percentage": 5.419006198644638
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:01.999572"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples6.jpg",
+    "filename": "apples6.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.2718667685985565,
+        "percentage": 27.186676859855652
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.23340226709842682,
+        "percentage": 23.340226709842682
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.22781261801719666,
+        "percentage": 22.781261801719666
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:02.134727"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples7.jpg",
+    "filename": "apples7.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie 2",
+        "confidence": 0.50016188621521,
+        "percentage": 50.016188621520996
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.4687325656414032,
+        "percentage": 46.87325656414032
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.011141066439449787,
+        "percentage": 1.1141066439449787
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:02.269656"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples8.jpg",
+    "filename": "apples8.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.9582897424697876,
+        "percentage": 95.82897424697876
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 2",
+        "confidence": 0.027675362303853035,
+        "percentage": 2.7675362303853035
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.004970382433384657,
+        "percentage": 0.4970382433384657
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:02.407211"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples_cherries.jpg",
+    "filename": "apples_cherries.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie 1",
+        "confidence": 0.47412100434303284,
+        "percentage": 47.412100434303284
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.09725049138069153,
+        "percentage": 9.725049138069153
+      },
+      {
+        "rank": 3,
+        "class": "Tomato not Ripen 1",
+        "confidence": 0.09437274932861328,
+        "percentage": 9.437274932861328
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:02.552858"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples_peaches1.jpg",
+    "filename": "apples_peaches1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.540637731552124,
+        "percentage": 54.0637731552124
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.25279563665390015,
+        "percentage": 25.279563665390015
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.14315681159496307,
+        "percentage": 14.315681159496307
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:02.690584"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples_peaches2.jpg",
+    "filename": "apples_peaches2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.6409221887588501,
+        "percentage": 64.09221887588501
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.2221788465976715,
+        "percentage": 22.21788465976715
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.079053595662117,
+        "percentage": 7.9053595662117
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:02.816327"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples_pears.jpg",
+    "filename": "apples_pears.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.8301344513893127,
+        "percentage": 83.01344513893127
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.0831640288233757,
+        "percentage": 8.31640288233757
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.042302828282117844,
+        "percentage": 4.230282828211784
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:02.959068"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples_pears2.jpg",
+    "filename": "apples_pears2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie 1",
+        "confidence": 0.571445107460022,
+        "percentage": 57.1445107460022
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.26192232966423035,
+        "percentage": 26.192232966423035
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.06896255910396576,
+        "percentage": 6.896255910396576
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:03.097339"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples_pears_pumpkin.jpg",
+    "filename": "apples_pears_pumpkin.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.7381360530853271,
+        "percentage": 73.81360530853271
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.09836640954017639,
+        "percentage": 9.83664095401764
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.05654698610305786,
+        "percentage": 5.654698610305786
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:03.246280"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apples_plums_blackberries_cherry_wax_raspberry.jpg",
+    "filename": "apples_plums_blackberries_cherry_wax_raspberry.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Apple Red Delicious 1",
+        "confidence": 0.6691456437110901,
+        "percentage": 66.91456437110901
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.14286378026008606,
+        "percentage": 14.286378026008606
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.04755827412009239,
+        "percentage": 4.755827412009239
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:03.340873"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apple_apricot_nectarine_peach_peach(flat)_pomegranate_pear_plum.jpg",
+    "filename": "apple_apricot_nectarine_peach_peach(flat)_pomegranate_pear_plum.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.5826015472412109,
+        "percentage": 58.260154724121094
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.3976113498210907,
+        "percentage": 39.76113498210907
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.0062704808078706264,
+        "percentage": 0.6270480807870626
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:03.457628"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apple_apricot_peach_peach(flat)_pomegranate_pear_plum.jpg",
+    "filename": "apple_apricot_peach_peach(flat)_pomegranate_pear_plum.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.9925779700279236,
+        "percentage": 99.25779700279236
+      },
+      {
+        "rank": 2,
+        "class": "Carambula 1",
+        "confidence": 0.003315834328532219,
+        "percentage": 0.3315834328532219
+      },
+      {
+        "rank": 3,
+        "class": "Cauliflower 1",
+        "confidence": 0.002560138702392578,
+        "percentage": 0.2560138702392578
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:03.570431"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apple_apricot_peach_peach(flat)_pomegranate_pear_plum_2.jpg",
+    "filename": "apple_apricot_peach_peach(flat)_pomegranate_pear_plum_2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.9916713237762451,
+        "percentage": 99.16713237762451
+      },
+      {
+        "rank": 2,
+        "class": "Apple Red Delicious 1",
+        "confidence": 0.004427438136190176,
+        "percentage": 0.4427438136190176
+      },
+      {
+        "rank": 3,
+        "class": "Cauliflower 1",
+        "confidence": 0.0014723384520038962,
+        "percentage": 0.14723384520038962
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:03.696112"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apple_apricot_peach_peach(flat)_pomegranate_pear_plum_3.jpg",
+    "filename": "apple_apricot_peach_peach(flat)_pomegranate_pear_plum_3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Apple Red Delicious 1",
+        "confidence": 0.8564310073852539,
+        "percentage": 85.64310073852539
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.12084714323282242,
+        "percentage": 12.084714323282242
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.004724340979009867,
+        "percentage": 0.47243409790098667
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:03.801040"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apple_grape.jpg",
+    "filename": "apple_grape.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.866889476776123,
+        "percentage": 86.6889476776123
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 2",
+        "confidence": 0.03866756707429886,
+        "percentage": 3.866756707429886
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.029859809204936028,
+        "percentage": 2.9859809204936028
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:03.946826"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apple_grape2.jpg",
+    "filename": "apple_grape2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.9050355553627014,
+        "percentage": 90.50355553627014
+      },
+      {
+        "rank": 2,
+        "class": "Carambula 1",
+        "confidence": 0.070219486951828,
+        "percentage": 7.0219486951828
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.006819085218012333,
+        "percentage": 0.6819085218012333
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:04.067757"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\apple_pear.jpg",
+    "filename": "apple_pear.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.9759294986724854,
+        "percentage": 97.59294986724854
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.018678611144423485,
+        "percentage": 1.8678611144423485
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.0020432842429727316,
+        "percentage": 0.20432842429727316
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:04.200940"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\Bananas(lady_finger)1.jpg",
+    "filename": "Bananas(lady_finger)1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Apple Red 3",
+        "confidence": 0.5633084177970886,
+        "percentage": 56.33084177970886
+      },
+      {
+        "rank": 2,
+        "class": "Nectarine 1",
+        "confidence": 0.10224777460098267,
+        "percentage": 10.224777460098267
+      },
+      {
+        "rank": 3,
+        "class": "Apple Rotten 1",
+        "confidence": 0.06327908486127853,
+        "percentage": 6.327908486127853
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:04.316542"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\Bananas(lady_finger)2.jpg",
+    "filename": "Bananas(lady_finger)2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Nectarine 1",
+        "confidence": 0.6187243461608887,
+        "percentage": 61.87243461608887
+      },
+      {
+        "rank": 2,
+        "class": "Apple Red 3",
+        "confidence": 0.21830488741397858,
+        "percentage": 21.830488741397858
+      },
+      {
+        "rank": 3,
+        "class": "Apple Braeburn 1",
+        "confidence": 0.0733943060040474,
+        "percentage": 7.339430600404739
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:04.423383"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\Bananas(lady_finger)3.jpg",
+    "filename": "Bananas(lady_finger)3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Nectarine 1",
+        "confidence": 0.5018182396888733,
+        "percentage": 50.18182396888733
+      },
+      {
+        "rank": 2,
+        "class": "Apple Braeburn 1",
+        "confidence": 0.270437091588974,
+        "percentage": 27.0437091588974
+      },
+      {
+        "rank": 3,
+        "class": "Pomegranate 1",
+        "confidence": 0.03580162674188614,
+        "percentage": 3.580162674188614
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:04.537738"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\Bananas(lady_finger)4.jpg",
+    "filename": "Bananas(lady_finger)4.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Apple Red 3",
+        "confidence": 0.18971629440784454,
+        "percentage": 18.971629440784454
+      },
+      {
+        "rank": 2,
+        "class": "Nectarine 1",
+        "confidence": 0.16223974525928497,
+        "percentage": 16.223974525928497
+      },
+      {
+        "rank": 3,
+        "class": "Apple Braeburn 1",
+        "confidence": 0.07078726589679718,
+        "percentage": 7.078726589679718
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:04.657473"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\Bananas(lady_finger)5.jpg",
+    "filename": "Bananas(lady_finger)5.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Nectarine 1",
+        "confidence": 0.4705701768398285,
+        "percentage": 47.05701768398285
+      },
+      {
+        "rank": 2,
+        "class": "Apple Red 3",
+        "confidence": 0.2146904021501541,
+        "percentage": 21.46904021501541
+      },
+      {
+        "rank": 3,
+        "class": "Apple Braeburn 1",
+        "confidence": 0.14776064455509186,
+        "percentage": 14.776064455509186
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:04.770253"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cactus fruits.jpg",
+    "filename": "cactus fruits.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.30485042929649353,
+        "percentage": 30.485042929649353
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.15081331133842468,
+        "percentage": 15.081331133842468
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.1325380802154541,
+        "percentage": 13.25380802154541
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:04.852263"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\carrots1.jpg",
+    "filename": "carrots1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Apple Golden 1",
+        "confidence": 0.4157153069972992,
+        "percentage": 41.57153069972992
+      },
+      {
+        "rank": 2,
+        "class": "Walnut 1",
+        "confidence": 0.20263543725013733,
+        "percentage": 20.263543725013733
+      },
+      {
+        "rank": 3,
+        "class": "Mandarine 1",
+        "confidence": 0.1194213256239891,
+        "percentage": 11.94213256239891
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:04.947262"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries(rainier)1.jpg",
+    "filename": "cherries(rainier)1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.5402863621711731,
+        "percentage": 54.02863621711731
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.14974480867385864,
+        "percentage": 14.974480867385864
+      },
+      {
+        "rank": 3,
+        "class": "Cauliflower 1",
+        "confidence": 0.1345084309577942,
+        "percentage": 13.450843095779419
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:05.071017"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries(rainier)2.jpg",
+    "filename": "cherries(rainier)2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.7338439226150513,
+        "percentage": 73.38439226150513
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie half rippen 1",
+        "confidence": 0.2246955782175064,
+        "percentage": 22.46955782175064
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.037737954407930374,
+        "percentage": 3.7737954407930374
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:05.195792"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries.jpg",
+    "filename": "cherries.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.6078023910522461,
+        "percentage": 60.78023910522461
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.32057780027389526,
+        "percentage": 32.057780027389526
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.019423937425017357,
+        "percentage": 1.9423937425017357
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:05.342793"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries10.jpg",
+    "filename": "cherries10.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie 1",
+        "confidence": 0.6593167185783386,
+        "percentage": 65.93167185783386
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.26722604036331177,
+        "percentage": 26.722604036331177
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.02302340790629387,
+        "percentage": 2.302340790629387
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:05.493455"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries11.jpg",
+    "filename": "cherries11.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie 1",
+        "confidence": 0.9776833057403564,
+        "percentage": 97.76833057403564
+      },
+      {
+        "rank": 2,
+        "class": "Mangostan 1",
+        "confidence": 0.012403115630149841,
+        "percentage": 1.2403115630149841
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.004946042317897081,
+        "percentage": 0.49460423178970814
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:05.609966"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries12.jpg",
+    "filename": "cherries12.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.7929351329803467,
+        "percentage": 79.29351329803467
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.18537358939647675,
+        "percentage": 18.537358939647675
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.006120156031101942,
+        "percentage": 0.6120156031101942
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:05.691154"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries13.jpg",
+    "filename": "cherries13.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie 2",
+        "confidence": 0.4716600477695465,
+        "percentage": 47.16600477695465
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.1979513168334961,
+        "percentage": 19.79513168334961
+      },
+      {
+        "rank": 3,
+        "class": "Cauliflower 1",
+        "confidence": 0.11905698478221893,
+        "percentage": 11.905698478221893
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:05.831213"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries2.jpg",
+    "filename": "cherries2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie 1",
+        "confidence": 0.2799410820007324,
+        "percentage": 27.994108200073242
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.23517556488513947,
+        "percentage": 23.517556488513947
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.17524154484272003,
+        "percentage": 17.524154484272003
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:05.955984"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries3.jpg",
+    "filename": "cherries3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.46065935492515564,
+        "percentage": 46.065935492515564
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.24872994422912598,
+        "percentage": 24.872994422912598
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.052734386175870895,
+        "percentage": 5.2734386175870895
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:06.079150"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries4.jpg",
+    "filename": "cherries4.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.26085662841796875,
+        "percentage": 26.085662841796875
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.21822059154510498,
+        "percentage": 21.822059154510498
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.1759963184595108,
+        "percentage": 17.59963184595108
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:06.196677"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries5.jpg",
+    "filename": "cherries5.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.6345599889755249,
+        "percentage": 63.45599889755249
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.19930113852024078,
+        "percentage": 19.93011385202408
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.08293284475803375,
+        "percentage": 8.293284475803375
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:06.321705"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries6.jpg",
+    "filename": "cherries6.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.4360266327857971,
+        "percentage": 43.60266327857971
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.177051842212677,
+        "percentage": 17.7051842212677
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.10705284029245377,
+        "percentage": 10.705284029245377
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:06.440434"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries7.jpg",
+    "filename": "cherries7.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.3075293004512787,
+        "percentage": 30.75293004512787
+      },
+      {
+        "rank": 2,
+        "class": "Carambula 1",
+        "confidence": 0.23758386075496674,
+        "percentage": 23.758386075496674
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.19178642332553864,
+        "percentage": 19.178642332553864
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:06.564063"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries8.jpg",
+    "filename": "cherries8.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple 1",
+        "confidence": 0.36888599395751953,
+        "percentage": 36.88859939575195
+      },
+      {
+        "rank": 2,
+        "class": "Lychee 1",
+        "confidence": 0.2242584228515625,
+        "percentage": 22.42584228515625
+      },
+      {
+        "rank": 3,
+        "class": "Cauliflower 1",
+        "confidence": 0.060584697872400284,
+        "percentage": 6.058469787240028
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:06.684650"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries9.jpg",
+    "filename": "cherries9.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.7913969159126282,
+        "percentage": 79.13969159126282
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.11097525805234909,
+        "percentage": 11.097525805234909
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.051303353160619736,
+        "percentage": 5.130335316061974
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:06.851825"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries_currants.jpg",
+    "filename": "cherries_currants.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.6041772365570068,
+        "percentage": 60.417723655700684
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.128175750374794,
+        "percentage": 12.8175750374794
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.0708773136138916,
+        "percentage": 7.08773136138916
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:06.962509"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries_strawberries1.jpg",
+    "filename": "cherries_strawberries1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.3722362220287323,
+        "percentage": 37.22362220287323
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.16898250579833984,
+        "percentage": 16.898250579833984
+      },
+      {
+        "rank": 3,
+        "class": "Tomato 3",
+        "confidence": 0.159611314535141,
+        "percentage": 15.9611314535141
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:07.086731"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries_strawberries2.jpg",
+    "filename": "cherries_strawberries2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.5471677780151367,
+        "percentage": 54.71677780151367
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.3447748124599457,
+        "percentage": 34.47748124599457
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.08142281323671341,
+        "percentage": 8.142281323671341
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:07.224230"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries_wax1.jpg",
+    "filename": "cherries_wax1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pepper Red 1",
+        "confidence": 0.4788298010826111,
+        "percentage": 47.88298010826111
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.2245194911956787,
+        "percentage": 22.45194911956787
+      },
+      {
+        "rank": 3,
+        "class": "Tomato 1",
+        "confidence": 0.0735602080821991,
+        "percentage": 7.35602080821991
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:07.333271"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries_wax2.jpg",
+    "filename": "cherries_wax2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.23510271310806274,
+        "percentage": 23.510271310806274
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.16933393478393555,
+        "percentage": 16.933393478393555
+      },
+      {
+        "rank": 3,
+        "class": "Rambutan 1",
+        "confidence": 0.09397982060909271,
+        "percentage": 9.397982060909271
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:07.466170"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries_wax3.jpg",
+    "filename": "cherries_wax3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie 1",
+        "confidence": 0.2303677350282669,
+        "percentage": 23.03677350282669
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.22612546384334564,
+        "percentage": 22.612546384334564
+      },
+      {
+        "rank": 3,
+        "class": "Apple 9",
+        "confidence": 0.19647759199142456,
+        "percentage": 19.647759199142456
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:07.602241"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries_wax4.jpg",
+    "filename": "cherries_wax4.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.5455006957054138,
+        "percentage": 54.55006957054138
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.15864825248718262,
+        "percentage": 15.864825248718262
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.06052207201719284,
+        "percentage": 6.052207201719284
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:07.741093"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries_wax5.jpg",
+    "filename": "cherries_wax5.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.34669697284698486,
+        "percentage": 34.669697284698486
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.21682772040367126,
+        "percentage": 21.682772040367126
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie half rippen 1",
+        "confidence": 0.11218240857124329,
+        "percentage": 11.218240857124329
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:07.881587"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries_wax6.jpg",
+    "filename": "cherries_wax6.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.723811149597168,
+        "percentage": 72.3811149597168
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.24170589447021484,
+        "percentage": 24.170589447021484
+      },
+      {
+        "rank": 3,
+        "class": "Rambutan 1",
+        "confidence": 0.014971190132200718,
+        "percentage": 1.4971190132200718
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:08.008480"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherries_wax7.jpg",
+    "filename": "cherries_wax7.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pepper Red 1",
+        "confidence": 0.5303896069526672,
+        "percentage": 53.038960695266724
+      },
+      {
+        "rank": 2,
+        "class": "Apple Red 1",
+        "confidence": 0.15198223292827606,
+        "percentage": 15.198223292827606
+      },
+      {
+        "rank": 3,
+        "class": "Tomato 3",
+        "confidence": 0.08192431926727295,
+        "percentage": 8.192431926727295
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:08.134819"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherry2.jpg",
+    "filename": "cherry2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.8868226408958435,
+        "percentage": 88.68226408958435
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.03624040260910988,
+        "percentage": 3.624040260910988
+      },
+      {
+        "rank": 3,
+        "class": "Rambutan 1",
+        "confidence": 0.029343411326408386,
+        "percentage": 2.9343411326408386
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:08.277098"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherry3.jpg",
+    "filename": "cherry3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.3075293004512787,
+        "percentage": 30.75293004512787
+      },
+      {
+        "rank": 2,
+        "class": "Carambula 1",
+        "confidence": 0.23758386075496674,
+        "percentage": 23.758386075496674
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.19178642332553864,
+        "percentage": 19.178642332553864
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:08.397594"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherry_strawberries.jpg",
+    "filename": "cherry_strawberries.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.3722362220287323,
+        "percentage": 37.22362220287323
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.16898250579833984,
+        "percentage": 16.898250579833984
+      },
+      {
+        "rank": 3,
+        "class": "Tomato 3",
+        "confidence": 0.159611314535141,
+        "percentage": 15.9611314535141
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:08.522947"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cherry_strawberries2.jpg",
+    "filename": "cherry_strawberries2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.5471677780151367,
+        "percentage": 54.71677780151367
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.3447748124599457,
+        "percentage": 34.47748124599457
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.08142281323671341,
+        "percentage": 8.142281323671341
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:08.659788"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\chestnut1.jpg",
+    "filename": "chestnut1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.37318623065948486,
+        "percentage": 37.318623065948486
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.22775335609912872,
+        "percentage": 22.775335609912872
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.0609271340072155,
+        "percentage": 6.09271340072155
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:08.763535"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\chestnut3.jpg",
+    "filename": "chestnut3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie 1",
+        "confidence": 0.6901406645774841,
+        "percentage": 69.01406645774841
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 2",
+        "confidence": 0.23243677616119385,
+        "percentage": 23.243677616119385
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.028683144599199295,
+        "percentage": 2.8683144599199295
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:08.878422"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cocos.jpg",
+    "filename": "cocos.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple 1",
+        "confidence": 0.9973340034484863,
+        "percentage": 99.73340034484863
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.002024782355874777,
+        "percentage": 0.20247823558747768
+      },
+      {
+        "rank": 3,
+        "class": "Lychee 1",
+        "confidence": 0.000260341475950554,
+        "percentage": 0.0260341475950554
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:09.004871"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja.jpg",
+    "filename": "cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.4017842411994934,
+        "percentage": 40.17842411994934
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 2",
+        "confidence": 0.37342560291290283,
+        "percentage": 37.34256029129028
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.1143987625837326,
+        "percentage": 11.43987625837326
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:09.130939"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja2.jpg",
+    "filename": "cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.7609161138534546,
+        "percentage": 76.09161138534546
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.07614313066005707,
+        "percentage": 7.614313066005707
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.03721189871430397,
+        "percentage": 3.721189871430397
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:09.253859"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja3.jpg",
+    "filename": "cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.8255459666252136,
+        "percentage": 82.55459666252136
+      },
+      {
+        "rank": 2,
+        "class": "Apple Red Delicious 1",
+        "confidence": 0.12263303250074387,
+        "percentage": 12.263303250074387
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.020919587463140488,
+        "percentage": 2.0919587463140488
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:09.374025"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cucumbers1.jpg",
+    "filename": "cucumbers1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.9921441078186035,
+        "percentage": 99.21441078186035
+      },
+      {
+        "rank": 2,
+        "class": "Carambula 1",
+        "confidence": 0.006678966339677572,
+        "percentage": 0.6678966339677572
+      },
+      {
+        "rank": 3,
+        "class": "Watermelon 1",
+        "confidence": 0.0009024549508467317,
+        "percentage": 0.09024549508467317
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:09.461144"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\cucumbers_cherries.jpg",
+    "filename": "cucumbers_cherries.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.6800094246864319,
+        "percentage": 68.00094246864319
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.30737435817718506,
+        "percentage": 30.737435817718506
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.0027829734608531,
+        "percentage": 0.27829734608531
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:09.607591"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\dates.jpg",
+    "filename": "dates.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.9860666394233704,
+        "percentage": 98.60666394233704
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.01251852698624134,
+        "percentage": 1.251852698624134
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.0005831841262988746,
+        "percentage": 0.05831841262988746
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:09.735132"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\grape_pear_mandarine.jpg",
+    "filename": "grape_pear_mandarine.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.6131667494773865,
+        "percentage": 61.31667494773865
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.2556324303150177,
+        "percentage": 25.56324303150177
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie half rippen 1",
+        "confidence": 0.039039015769958496,
+        "percentage": 3.9039015769958496
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:09.870588"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\grape_pear_mandarine2.jpg",
+    "filename": "grape_pear_mandarine2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple 1",
+        "confidence": 0.2622845768928528,
+        "percentage": 26.22845768928528
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.2607678472995758,
+        "percentage": 26.07678472995758
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.22149205207824707,
+        "percentage": 22.149205207824707
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:10.002867"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\hazelnuts1.jpg",
+    "filename": "hazelnuts1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.8030125498771667,
+        "percentage": 80.30125498771667
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.18501530587673187,
+        "percentage": 18.501530587673187
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.00617139833047986,
+        "percentage": 0.617139833047986
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:10.140641"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\hazelnuts2.jpg",
+    "filename": "hazelnuts2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.8427644968032837,
+        "percentage": 84.27644968032837
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.05569341033697128,
+        "percentage": 5.569341033697128
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.04777803644537926,
+        "percentage": 4.777803644537926
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:10.239798"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\huckleberry.jpg",
+    "filename": "huckleberry.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.3249123990535736,
+        "percentage": 32.49123990535736
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.2712111473083496,
+        "percentage": 27.12111473083496
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.18685369193553925,
+        "percentage": 18.685369193553925
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:10.382633"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\kachi.jpg",
+    "filename": "kachi.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.9108080863952637,
+        "percentage": 91.08080863952637
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.056445177644491196,
+        "percentage": 5.64451776444912
+      },
+      {
+        "rank": 3,
+        "class": "Cauliflower 1",
+        "confidence": 0.020509907975792885,
+        "percentage": 2.0509907975792885
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:10.507393"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\kiwi.jpg",
+    "filename": "kiwi.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.42421403527259827,
+        "percentage": 42.42140352725983
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.29320961236953735,
+        "percentage": 29.320961236953735
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.25643980503082275,
+        "percentage": 25.643980503082275
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:10.633314"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\kiwi_cherry_wax_hazelnut.jpg",
+    "filename": "kiwi_cherry_wax_hazelnut.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.9705243706703186,
+        "percentage": 97.05243706703186
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.011497399769723415,
+        "percentage": 1.1497399769723415
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.01052774116396904,
+        "percentage": 1.052774116396904
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:10.718544"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\kiwi_nut_cherries_wax_hazelnut.jpg",
+    "filename": "kiwi_nut_cherries_wax_hazelnut.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.43427810072898865,
+        "percentage": 43.427810072898865
+      },
+      {
+        "rank": 2,
+        "class": "Carambula 1",
+        "confidence": 0.2467096447944641,
+        "percentage": 24.67096447944641
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.1398162841796875,
+        "percentage": 13.98162841796875
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:10.807860"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\limes.jpg",
+    "filename": "limes.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.8713502883911133,
+        "percentage": 87.13502883911133
+      },
+      {
+        "rank": 2,
+        "class": "Watermelon 1",
+        "confidence": 0.08050991594791412,
+        "percentage": 8.050991594791412
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.01388486661016941,
+        "percentage": 1.388486661016941
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:10.926430"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\lychee.jpg",
+    "filename": "lychee.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie 2",
+        "confidence": 0.7374963760375977,
+        "percentage": 73.74963760375977
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.1381065547466278,
+        "percentage": 13.81065547466278
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.06669654697179794,
+        "percentage": 6.669654697179794
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:11.028982"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\mango.jpg",
+    "filename": "mango.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.9924066662788391,
+        "percentage": 99.24066662788391
+      },
+      {
+        "rank": 2,
+        "class": "Apple Golden 1",
+        "confidence": 0.0036300758365541697,
+        "percentage": 0.36300758365541697
+      },
+      {
+        "rank": 3,
+        "class": "Limes 1",
+        "confidence": 0.0010121185332536697,
+        "percentage": 0.10121185332536697
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:11.139127"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\mangos1.jpg",
+    "filename": "mangos1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple 1",
+        "confidence": 0.6545093655586243,
+        "percentage": 65.45093655586243
+      },
+      {
+        "rank": 2,
+        "class": "Watermelon 1",
+        "confidence": 0.08286279439926147,
+        "percentage": 8.286279439926147
+      },
+      {
+        "rank": 3,
+        "class": "Plum 1",
+        "confidence": 0.05301763862371445,
+        "percentage": 5.301763862371445
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:11.228899"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\mangos2.jpg",
+    "filename": "mangos2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple 1",
+        "confidence": 0.6245844960212708,
+        "percentage": 62.458449602127075
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.14867134392261505,
+        "percentage": 14.867134392261505
+      },
+      {
+        "rank": 3,
+        "class": "Lychee 1",
+        "confidence": 0.08323834836483002,
+        "percentage": 8.323834836483002
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:11.355573"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\mangos3.jpg",
+    "filename": "mangos3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple 1",
+        "confidence": 0.8518980741500854,
+        "percentage": 85.18980741500854
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.04634111374616623,
+        "percentage": 4.634111374616623
+      },
+      {
+        "rank": 3,
+        "class": "Lychee 1",
+        "confidence": 0.02169751189649105,
+        "percentage": 2.169751189649105
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:11.443259"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\mangos_bananas(lady_finger).jpg",
+    "filename": "mangos_bananas(lady_finger).jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.9731003046035767,
+        "percentage": 97.31003046035767
+      },
+      {
+        "rank": 2,
+        "class": "Watermelon 1",
+        "confidence": 0.011309022083878517,
+        "percentage": 1.1309022083878517
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.003525572596117854,
+        "percentage": 0.3525572596117854
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:11.544454"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\mangos_melon.jpg",
+    "filename": "mangos_melon.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pepper Green 1",
+        "confidence": 0.3905254304409027,
+        "percentage": 39.05254304409027
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.18018116056919098,
+        "percentage": 18.018116056919098
+      },
+      {
+        "rank": 3,
+        "class": "Strawberry 1",
+        "confidence": 0.12091226130723953,
+        "percentage": 12.091226130723953
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:11.643319"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\mangos_melon_chestnuts.jpg",
+    "filename": "mangos_melon_chestnuts.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Apple Red 3",
+        "confidence": 0.26873302459716797,
+        "percentage": 26.873302459716797
+      },
+      {
+        "rank": 2,
+        "class": "Apple 9",
+        "confidence": 0.1401226967573166,
+        "percentage": 14.012269675731659
+      },
+      {
+        "rank": 3,
+        "class": "Strawberry 1",
+        "confidence": 0.11818079650402069,
+        "percentage": 11.818079650402069
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:11.757183"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\nut.jpg",
+    "filename": "nut.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.7716444134712219,
+        "percentage": 77.16444134712219
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.08022177219390869,
+        "percentage": 8.02217721939087
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.06836605072021484,
+        "percentage": 6.836605072021484
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:11.891546"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\onions1.jpg",
+    "filename": "onions1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.6938528418540955,
+        "percentage": 69.38528418540955
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.16546443104743958,
+        "percentage": 16.546443104743958
+      },
+      {
+        "rank": 3,
+        "class": "Cauliflower 1",
+        "confidence": 0.11256126314401627,
+        "percentage": 11.256126314401627
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:11.972342"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\peaches.jpg",
+    "filename": "peaches.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.23080302774906158,
+        "percentage": 23.08030277490616
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.18411855399608612,
+        "percentage": 18.411855399608612
+      },
+      {
+        "rank": 3,
+        "class": "Rambutan 1",
+        "confidence": 0.16985012590885162,
+        "percentage": 16.985012590885162
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:12.098723"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\pear.jpg",
+    "filename": "pear.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.6844739317893982,
+        "percentage": 68.44739317893982
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.15104414522647858,
+        "percentage": 15.104414522647858
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.10406805574893951,
+        "percentage": 10.406805574893951
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:12.229976"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\pear2.jpg",
+    "filename": "pear2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.9938713312149048,
+        "percentage": 99.38713312149048
+      },
+      {
+        "rank": 2,
+        "class": "Lychee 1",
+        "confidence": 0.0008659613667987287,
+        "percentage": 0.08659613667987287
+      },
+      {
+        "rank": 3,
+        "class": "Onion Red 1",
+        "confidence": 0.0006752316839993,
+        "percentage": 0.06752316839993
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:12.338933"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\pears1.jpg",
+    "filename": "pears1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.7131146192550659,
+        "percentage": 71.31146192550659
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.14619781076908112,
+        "percentage": 14.619781076908112
+      },
+      {
+        "rank": 3,
+        "class": "Rambutan 1",
+        "confidence": 0.06319893896579742,
+        "percentage": 6.319893896579742
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:12.462557"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\pears2.jpg",
+    "filename": "pears2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.666028618812561,
+        "percentage": 66.6028618812561
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.11438141763210297,
+        "percentage": 11.438141763210297
+      },
+      {
+        "rank": 3,
+        "class": "Rambutan 1",
+        "confidence": 0.10869359225034714,
+        "percentage": 10.869359225034714
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:12.592825"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\pears3.jpg",
+    "filename": "pears3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.6844739317893982,
+        "percentage": 68.44739317893982
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.15104414522647858,
+        "percentage": 15.104414522647858
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.10406805574893951,
+        "percentage": 10.406805574893951
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:12.719105"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\pears4.jpg",
+    "filename": "pears4.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.9858354330062866,
+        "percentage": 98.58354330062866
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 2",
+        "confidence": 0.005835965275764465,
+        "percentage": 0.5835965275764465
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.0040190271101891994,
+        "percentage": 0.40190271101891994
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:12.839397"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\pears5.jpg",
+    "filename": "pears5.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.997528612613678,
+        "percentage": 99.7528612613678
+      },
+      {
+        "rank": 2,
+        "class": "Carambula 1",
+        "confidence": 0.0009071494569070637,
+        "percentage": 0.09071494569070637
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.00043050776002928615,
+        "percentage": 0.043050776002928615
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:12.941148"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\pears6.jpg",
+    "filename": "pears6.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.2958572208881378,
+        "percentage": 29.58572208881378
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.1351725161075592,
+        "percentage": 13.51725161075592
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.1232757419347763,
+        "percentage": 12.32757419347763
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:13.052440"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\peppers1.jpg",
+    "filename": "peppers1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.839789867401123,
+        "percentage": 83.9789867401123
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.05935557931661606,
+        "percentage": 5.935557931661606
+      },
+      {
+        "rank": 3,
+        "class": "Rambutan 1",
+        "confidence": 0.030056951567530632,
+        "percentage": 3.005695156753063
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:13.182459"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\physalis1.jpg",
+    "filename": "physalis1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.38843342661857605,
+        "percentage": 38.843342661857605
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie half rippen 1",
+        "confidence": 0.09304754436016083,
+        "percentage": 9.304754436016083
+      },
+      {
+        "rank": 3,
+        "class": "Nectarine 1",
+        "confidence": 0.06803432106971741,
+        "percentage": 6.803432106971741
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:13.306252"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\physalis2.jpg",
+    "filename": "physalis2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.5817261338233948,
+        "percentage": 58.17261338233948
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.12861981987953186,
+        "percentage": 12.861981987953186
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.0490497387945652,
+        "percentage": 4.90497387945652
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:13.440579"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\plums_pears.jpg",
+    "filename": "plums_pears.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.5473958849906921,
+        "percentage": 54.739588499069214
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.377450555562973,
+        "percentage": 37.7450555562973
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.027269471436738968,
+        "percentage": 2.726947143673897
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:13.584284"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\pomegranate.jpg",
+    "filename": "pomegranate.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.44689151644706726,
+        "percentage": 44.689151644706726
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.3144281804561615,
+        "percentage": 31.44281804561615
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.03085613064467907,
+        "percentage": 3.085613064467907
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:13.725419"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\pomegranate2.jpg",
+    "filename": "pomegranate2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.7132665514945984,
+        "percentage": 71.32665514945984
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.10487663000822067,
+        "percentage": 10.487663000822067
+      },
+      {
+        "rank": 3,
+        "class": "Tomato 3",
+        "confidence": 0.07867752760648727,
+        "percentage": 7.867752760648727
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:13.860563"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\pumpkins1.jpg",
+    "filename": "pumpkins1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.6267274022102356,
+        "percentage": 62.67274022102356
+      },
+      {
+        "rank": 2,
+        "class": "Watermelon 1",
+        "confidence": 0.26245012879371643,
+        "percentage": 26.245012879371643
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.028344590216875076,
+        "percentage": 2.8344590216875076
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:13.967658"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\rambutans1.jpg",
+    "filename": "rambutans1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.5722973942756653,
+        "percentage": 57.22973942756653
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.22861579060554504,
+        "percentage": 22.861579060554504
+      },
+      {
+        "rank": 3,
+        "class": "Cauliflower 1",
+        "confidence": 0.09209345281124115,
+        "percentage": 9.209345281124115
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:14.074346"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\rambutans2.jpg",
+    "filename": "rambutans2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.35077351331710815,
+        "percentage": 35.077351331710815
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.2657700777053833,
+        "percentage": 26.57700777053833
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.19263805449008942,
+        "percentage": 19.26380544900894
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:14.179603"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\rambutans3.jpg",
+    "filename": "rambutans3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.5769743919372559,
+        "percentage": 57.697439193725586
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.12633883953094482,
+        "percentage": 12.633883953094482
+      },
+      {
+        "rank": 3,
+        "class": "Lychee 1",
+        "confidence": 0.09114376455545425,
+        "percentage": 9.114376455545425
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:14.300887"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberries1.jpg",
+    "filename": "raspberries1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.6039898991584778,
+        "percentage": 60.39898991584778
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.165670707821846,
+        "percentage": 16.5670707821846
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.16287624835968018,
+        "percentage": 16.287624835968018
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:14.431287"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberries10.jpg",
+    "filename": "raspberries10.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.6426149606704712,
+        "percentage": 64.26149606704712
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.2710497975349426,
+        "percentage": 27.104979753494263
+      },
+      {
+        "rank": 3,
+        "class": "Lychee 1",
+        "confidence": 0.02110663615167141,
+        "percentage": 2.110663615167141
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:14.573681"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberries11.jpg",
+    "filename": "raspberries11.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.2478463053703308,
+        "percentage": 24.78463053703308
+      },
+      {
+        "rank": 2,
+        "class": "Lychee 1",
+        "confidence": 0.18820415437221527,
+        "percentage": 18.820415437221527
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.09088923037052155,
+        "percentage": 9.088923037052155
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:14.703894"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberries12.jpg",
+    "filename": "raspberries12.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.7304226756095886,
+        "percentage": 73.04226756095886
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.05718996003270149,
+        "percentage": 5.718996003270149
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.05539553239941597,
+        "percentage": 5.539553239941597
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:14.830619"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberries2.jpg",
+    "filename": "raspberries2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.5483283400535583,
+        "percentage": 54.832834005355835
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.3594984710216522,
+        "percentage": 35.94984710216522
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.06562228500843048,
+        "percentage": 6.562228500843048
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:14.960667"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberries3.jpg",
+    "filename": "raspberries3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.8705892562866211,
+        "percentage": 87.05892562866211
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 2",
+        "confidence": 0.0630149394273758,
+        "percentage": 6.301493942737579
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.018287433311343193,
+        "percentage": 1.8287433311343193
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:15.090601"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberries4.jpg",
+    "filename": "raspberries4.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.869925320148468,
+        "percentage": 86.9925320148468
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.06930243968963623,
+        "percentage": 6.930243968963623
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.01529220212250948,
+        "percentage": 1.529220212250948
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:15.224548"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberries5.jpg",
+    "filename": "raspberries5.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Lychee 1",
+        "confidence": 0.5052703022956848,
+        "percentage": 50.52703022956848
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.24184376001358032,
+        "percentage": 24.184376001358032
+      },
+      {
+        "rank": 3,
+        "class": "Strawberry Wedge 1",
+        "confidence": 0.11540809273719788,
+        "percentage": 11.540809273719788
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:15.350961"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberries6.jpg",
+    "filename": "raspberries6.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Lychee 1",
+        "confidence": 0.371723473072052,
+        "percentage": 37.1723473072052
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.10968947410583496,
+        "percentage": 10.968947410583496
+      },
+      {
+        "rank": 3,
+        "class": "Strawberry Wedge 1",
+        "confidence": 0.07630593329668045,
+        "percentage": 7.630593329668045
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:15.485069"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberries7.jpg",
+    "filename": "raspberries7.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Lychee 1",
+        "confidence": 0.15100285410881042,
+        "percentage": 15.100285410881042
+      },
+      {
+        "rank": 2,
+        "class": "Carambula 1",
+        "confidence": 0.07876647263765335,
+        "percentage": 7.876647263765335
+      },
+      {
+        "rank": 3,
+        "class": "Pitahaya Red 1",
+        "confidence": 0.07616662234067917,
+        "percentage": 7.616662234067917
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:15.607781"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberries8.jpg",
+    "filename": "raspberries8.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple 1",
+        "confidence": 0.6096308827400208,
+        "percentage": 60.963088274002075
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.19246362149715424,
+        "percentage": 19.246362149715424
+      },
+      {
+        "rank": 3,
+        "class": "Apple Red Delicious 1",
+        "confidence": 0.045840077102184296,
+        "percentage": 4.58400771021843
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:15.735186"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberries9.jpg",
+    "filename": "raspberries9.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.3292100429534912,
+        "percentage": 32.92100429534912
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.26350921392440796,
+        "percentage": 26.350921392440796
+      },
+      {
+        "rank": 3,
+        "class": "Cauliflower 1",
+        "confidence": 0.08625669032335281,
+        "percentage": 8.625669032335281
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:15.861442"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberry.jpg",
+    "filename": "raspberry.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.8698508143424988,
+        "percentage": 86.98508143424988
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.037758778780698776,
+        "percentage": 3.7758778780698776
+      },
+      {
+        "rank": 3,
+        "class": "Strawberry Wedge 1",
+        "confidence": 0.029757602140307426,
+        "percentage": 2.9757602140307426
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:15.991266"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberry2.jpg",
+    "filename": "raspberry2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.8705892562866211,
+        "percentage": 87.05892562866211
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 2",
+        "confidence": 0.0630149394273758,
+        "percentage": 6.301493942737579
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.018287433311343193,
+        "percentage": 1.8287433311343193
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:16.132595"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberry3.jpg",
+    "filename": "raspberry3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.869925320148468,
+        "percentage": 86.9925320148468
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.06930243968963623,
+        "percentage": 6.930243968963623
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.01529220212250948,
+        "percentage": 1.529220212250948
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:16.265050"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberry4.jpg",
+    "filename": "raspberry4.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Lychee 1",
+        "confidence": 0.371723473072052,
+        "percentage": 37.1723473072052
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.10968947410583496,
+        "percentage": 10.968947410583496
+      },
+      {
+        "rank": 3,
+        "class": "Strawberry Wedge 1",
+        "confidence": 0.07630593329668045,
+        "percentage": 7.630593329668045
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:16.402695"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberry5.jpg",
+    "filename": "raspberry5.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple 1",
+        "confidence": 0.6096308827400208,
+        "percentage": 60.963088274002075
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.19246362149715424,
+        "percentage": 19.246362149715424
+      },
+      {
+        "rank": 3,
+        "class": "Apple Red Delicious 1",
+        "confidence": 0.045840077102184296,
+        "percentage": 4.58400771021843
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:16.529131"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\raspberry_apple.jpg",
+    "filename": "raspberry_apple.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.689460813999176,
+        "percentage": 68.9460813999176
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.10509705543518066,
+        "percentage": 10.509705543518066
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.0940118208527565,
+        "percentage": 9.40118208527565
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:16.663482"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\red_currants.jpg",
+    "filename": "red_currants.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.41732391715049744,
+        "percentage": 41.732391715049744
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.37737882137298584,
+        "percentage": 37.737882137298584
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie half rippen 1",
+        "confidence": 0.10292252898216248,
+        "percentage": 10.292252898216248
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:16.788388"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\salak.jpg",
+    "filename": "salak.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.8525616526603699,
+        "percentage": 85.25616526603699
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.05581343546509743,
+        "percentage": 5.581343546509743
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.04849620163440704,
+        "percentage": 4.849620163440704
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:16.921580"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\salak2.jpg",
+    "filename": "salak2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.9117301106452942,
+        "percentage": 91.17301106452942
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.050761718302965164,
+        "percentage": 5.076171830296516
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.015198566019535065,
+        "percentage": 1.5198566019535065
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:17.047764"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\strawberries.jpg",
+    "filename": "strawberries.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.599531888961792,
+        "percentage": 59.9531888961792
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.2628060579299927,
+        "percentage": 26.280605792999268
+      },
+      {
+        "rank": 3,
+        "class": "Rambutan 1",
+        "confidence": 0.03360540047287941,
+        "percentage": 3.360540047287941
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:17.188486"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\strawberries1.jpg",
+    "filename": "strawberries1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.9693040251731873,
+        "percentage": 96.93040251731873
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.021356914192438126,
+        "percentage": 2.1356914192438126
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.003755993442609906,
+        "percentage": 0.3755993442609906
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:17.310332"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\strawberries2.jpg",
+    "filename": "strawberries2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.5792098641395569,
+        "percentage": 57.92098641395569
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 2",
+        "confidence": 0.25847190618515015,
+        "percentage": 25.847190618515015
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.05263308808207512,
+        "percentage": 5.263308808207512
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:17.455359"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\strawberries3.jpg",
+    "filename": "strawberries3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.6766337156295776,
+        "percentage": 67.66337156295776
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.09167658537626266,
+        "percentage": 9.167658537626266
+      },
+      {
+        "rank": 3,
+        "class": "Rambutan 1",
+        "confidence": 0.04124430939555168,
+        "percentage": 4.124430939555168
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:17.584598"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\strawberries4.jpg",
+    "filename": "strawberries4.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.4106038510799408,
+        "percentage": 41.06038510799408
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.14748269319534302,
+        "percentage": 14.748269319534302
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.1077059954404831,
+        "percentage": 10.77059954404831
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:17.719969"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\strawberries5.jpg",
+    "filename": "strawberries5.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.25561797618865967,
+        "percentage": 25.561797618865967
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.22601038217544556,
+        "percentage": 22.601038217544556
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.1632995307445526,
+        "percentage": 16.32995307445526
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:17.857408"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\strawberries6.jpg",
+    "filename": "strawberries6.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.9555665254592896,
+        "percentage": 95.55665254592896
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.016947215422987938,
+        "percentage": 1.6947215422987938
+      },
+      {
+        "rank": 3,
+        "class": "Cauliflower 1",
+        "confidence": 0.00901362020522356,
+        "percentage": 0.901362020522356
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:17.990494"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\strawberries7.jpg",
+    "filename": "strawberries7.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple 1",
+        "confidence": 0.9935300946235657,
+        "percentage": 99.35300946235657
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.004312161356210709,
+        "percentage": 0.43121613562107086
+      },
+      {
+        "rank": 3,
+        "class": "Apple Red Delicious 1",
+        "confidence": 0.000525508658029139,
+        "percentage": 0.052550865802913904
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:18.131217"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\strawberries8.jpg",
+    "filename": "strawberries8.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.8686553239822388,
+        "percentage": 86.86553239822388
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.04653944820165634,
+        "percentage": 4.653944820165634
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.044145308434963226,
+        "percentage": 4.414530843496323
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:18.274858"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\tangelo.jpg",
+    "filename": "tangelo.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Clementine 1",
+        "confidence": 0.7879834771156311,
+        "percentage": 78.79834771156311
+      },
+      {
+        "rank": 2,
+        "class": "Tomato 3",
+        "confidence": 0.09507374465465546,
+        "percentage": 9.507374465465546
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.05842640623450279,
+        "percentage": 5.842640623450279
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:18.403113"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\tomatoes1.jpg",
+    "filename": "tomatoes1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.6561989188194275,
+        "percentage": 65.61989188194275
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple 1",
+        "confidence": 0.1419426053762436,
+        "percentage": 14.19426053762436
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.10957931727170944,
+        "percentage": 10.957931727170944
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:18.536069"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\tomatoes2.jpg",
+    "filename": "tomatoes2.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.6607063412666321,
+        "percentage": 66.07063412666321
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.1256801337003708,
+        "percentage": 12.568013370037079
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.06057612970471382,
+        "percentage": 6.057612970471382
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:18.678887"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\tomatoes3.jpg",
+    "filename": "tomatoes3.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.9082043766975403,
+        "percentage": 90.82043766975403
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.07647694647312164,
+        "percentage": 7.647694647312164
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.004026689566671848,
+        "percentage": 0.40266895666718483
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:18.816928"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\tomatoes4.jpg",
+    "filename": "tomatoes4.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.6161127686500549,
+        "percentage": 61.61127686500549
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.2882983088493347,
+        "percentage": 28.82983088493347
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.034837428480386734,
+        "percentage": 3.4837428480386734
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:18.955081"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\tomatoes5.jpg",
+    "filename": "tomatoes5.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.5641684532165527,
+        "percentage": 56.41684532165527
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.20087724924087524,
+        "percentage": 20.087724924087524
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.10301841795444489,
+        "percentage": 10.301841795444489
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:19.099877"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\tomatoes6.jpg",
+    "filename": "tomatoes6.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Apple Red 1",
+        "confidence": 0.5625179409980774,
+        "percentage": 56.25179409980774
+      },
+      {
+        "rank": 2,
+        "class": "Tomato 3",
+        "confidence": 0.3244801461696625,
+        "percentage": 32.44801461696625
+      },
+      {
+        "rank": 3,
+        "class": "Pepper Red 1",
+        "confidence": 0.046310313045978546,
+        "percentage": 4.631031304597855
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:19.209550"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\tomatoes7.jpg",
+    "filename": "tomatoes7.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.4221099615097046,
+        "percentage": 42.21099615097046
+      },
+      {
+        "rank": 2,
+        "class": "Tomato 3",
+        "confidence": 0.15642733871936798,
+        "percentage": 15.642733871936798
+      },
+      {
+        "rank": 3,
+        "class": "Pitahaya Red 1",
+        "confidence": 0.12969955801963806,
+        "percentage": 12.969955801963806
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:19.319415"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\tomatoes8.jpg",
+    "filename": "tomatoes8.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.45075085759162903,
+        "percentage": 45.0750857591629
+      },
+      {
+        "rank": 2,
+        "class": "Carambula 1",
+        "confidence": 0.08488599956035614,
+        "percentage": 8.488599956035614
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.07586587220430374,
+        "percentage": 7.586587220430374
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:19.403591"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\tomatoes9.jpg",
+    "filename": "tomatoes9.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Tomato 3",
+        "confidence": 0.39777761697769165,
+        "percentage": 39.777761697769165
+      },
+      {
+        "rank": 2,
+        "class": "Apple Red Delicious 1",
+        "confidence": 0.153079092502594,
+        "percentage": 15.3079092502594
+      },
+      {
+        "rank": 3,
+        "class": "Pepper Red 1",
+        "confidence": 0.11419809609651566,
+        "percentage": 11.419809609651566
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:19.557616"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\tomatoes_nuts_pecan.jpg",
+    "filename": "tomatoes_nuts_pecan.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.509442150592804,
+        "percentage": 50.944215059280396
+      },
+      {
+        "rank": 2,
+        "class": "Carambula 1",
+        "confidence": 0.23770327866077423,
+        "percentage": 23.770327866077423
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.07404014468193054,
+        "percentage": 7.404014468193054
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:19.674888"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\tomatoes_plums_peaches_apples_pears.jpg",
+    "filename": "tomatoes_plums_peaches_apples_pears.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie 1",
+        "confidence": 0.4522409439086914,
+        "percentage": 45.22409439086914
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.16531653702259064,
+        "percentage": 16.531653702259064
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.11389846354722977,
+        "percentage": 11.389846354722977
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:19.756881"
+  },
+  {
+    "image_path": "FruitsData/fruits-360_multi/test-multiple_fruits\\water_melons1.jpg",
+    "filename": "water_melons1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.4882960617542267,
+        "percentage": 48.82960617542267
+      },
+      {
+        "rank": 2,
+        "class": "Watermelon 1",
+        "confidence": 0.29100343585014343,
+        "percentage": 29.100343585014343
+      },
+      {
+        "rank": 3,
+        "class": "Pineapple 1",
+        "confidence": 0.12069683521986008,
+        "percentage": 12.069683521986008
+      }
+    ],
+    "timestamp": "2025-08-02T16:29:19.871721"
+  }
+]

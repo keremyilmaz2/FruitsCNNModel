@@ -1,0 +1,914 @@
+[
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple.jpg",
+    "filename": "apple.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple.jpg",
+    "timestamp": "2025-08-02T16:27:47.726752"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple1.jpg",
+    "filename": "apple1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple1.jpg",
+    "timestamp": "2025-08-02T16:27:47.726752"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple2.jpg",
+    "filename": "apple2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple2.jpg",
+    "timestamp": "2025-08-02T16:27:47.727764"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples1.jpg",
+    "filename": "apples1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples1.jpg",
+    "timestamp": "2025-08-02T16:27:47.727764"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples2.jpg",
+    "filename": "apples2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples2.jpg",
+    "timestamp": "2025-08-02T16:27:47.728449"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples3.jpg",
+    "filename": "apples3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples3.jpg",
+    "timestamp": "2025-08-02T16:27:47.728449"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples4.jpg",
+    "filename": "apples4.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples4.jpg",
+    "timestamp": "2025-08-02T16:27:47.728449"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples5.jpg",
+    "filename": "apples5.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples5.jpg",
+    "timestamp": "2025-08-02T16:27:47.728449"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples6.jpg",
+    "filename": "apples6.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples6.jpg",
+    "timestamp": "2025-08-02T16:27:47.728449"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples7.jpg",
+    "filename": "apples7.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples7.jpg",
+    "timestamp": "2025-08-02T16:27:47.728449"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples8.jpg",
+    "filename": "apples8.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples8.jpg",
+    "timestamp": "2025-08-02T16:27:47.728956"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_cherries.jpg",
+    "filename": "apples_cherries.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_cherries.jpg",
+    "timestamp": "2025-08-02T16:27:47.728956"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_peaches1.jpg",
+    "filename": "apples_peaches1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_peaches1.jpg",
+    "timestamp": "2025-08-02T16:27:47.728956"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_peaches2.jpg",
+    "filename": "apples_peaches2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_peaches2.jpg",
+    "timestamp": "2025-08-02T16:27:47.728956"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_pears.jpg",
+    "filename": "apples_pears.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_pears.jpg",
+    "timestamp": "2025-08-02T16:27:47.729468"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_pears2.jpg",
+    "filename": "apples_pears2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_pears2.jpg",
+    "timestamp": "2025-08-02T16:27:47.729468"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_pears_pumpkin.jpg",
+    "filename": "apples_pears_pumpkin.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_pears_pumpkin.jpg",
+    "timestamp": "2025-08-02T16:27:47.729468"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_plums_blackberries_cherry_wax_raspberry.jpg",
+    "filename": "apples_plums_blackberries_cherry_wax_raspberry.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apples_plums_blackberries_cherry_wax_raspberry.jpg",
+    "timestamp": "2025-08-02T16:27:47.729468"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_apricot_nectarine_peach_peach(flat)_pomegranate_pear_plum.jpg",
+    "filename": "apple_apricot_nectarine_peach_peach(flat)_pomegranate_pear_plum.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_apricot_nectarine_peach_peach(flat)_pomegranate_pear_plum.jpg",
+    "timestamp": "2025-08-02T16:27:47.729468"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_apricot_peach_peach(flat)_pomegranate_pear_plum.jpg",
+    "filename": "apple_apricot_peach_peach(flat)_pomegranate_pear_plum.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_apricot_peach_peach(flat)_pomegranate_pear_plum.jpg",
+    "timestamp": "2025-08-02T16:27:47.729468"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_apricot_peach_peach(flat)_pomegranate_pear_plum_2.jpg",
+    "filename": "apple_apricot_peach_peach(flat)_pomegranate_pear_plum_2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_apricot_peach_peach(flat)_pomegranate_pear_plum_2.jpg",
+    "timestamp": "2025-08-02T16:27:47.729468"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_apricot_peach_peach(flat)_pomegranate_pear_plum_3.jpg",
+    "filename": "apple_apricot_peach_peach(flat)_pomegranate_pear_plum_3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_apricot_peach_peach(flat)_pomegranate_pear_plum_3.jpg",
+    "timestamp": "2025-08-02T16:27:47.730077"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_grape.jpg",
+    "filename": "apple_grape.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_grape.jpg",
+    "timestamp": "2025-08-02T16:27:47.730077"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_grape2.jpg",
+    "filename": "apple_grape2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_grape2.jpg",
+    "timestamp": "2025-08-02T16:27:47.730077"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_pear.jpg",
+    "filename": "apple_pear.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\apple_pear.jpg",
+    "timestamp": "2025-08-02T16:27:47.730077"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\Bananas(lady_finger)1.jpg",
+    "filename": "Bananas(lady_finger)1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\Bananas(lady_finger)1.jpg",
+    "timestamp": "2025-08-02T16:27:47.730077"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\Bananas(lady_finger)2.jpg",
+    "filename": "Bananas(lady_finger)2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\Bananas(lady_finger)2.jpg",
+    "timestamp": "2025-08-02T16:27:47.730590"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\Bananas(lady_finger)3.jpg",
+    "filename": "Bananas(lady_finger)3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\Bananas(lady_finger)3.jpg",
+    "timestamp": "2025-08-02T16:27:47.730590"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\Bananas(lady_finger)4.jpg",
+    "filename": "Bananas(lady_finger)4.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\Bananas(lady_finger)4.jpg",
+    "timestamp": "2025-08-02T16:27:47.730590"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\Bananas(lady_finger)5.jpg",
+    "filename": "Bananas(lady_finger)5.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\Bananas(lady_finger)5.jpg",
+    "timestamp": "2025-08-02T16:27:47.730590"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cactus fruits.jpg",
+    "filename": "cactus fruits.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cactus fruits.jpg",
+    "timestamp": "2025-08-02T16:27:47.730590"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\carrots1.jpg",
+    "filename": "carrots1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\carrots1.jpg",
+    "timestamp": "2025-08-02T16:27:47.730590"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries(rainier)1.jpg",
+    "filename": "cherries(rainier)1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries(rainier)1.jpg",
+    "timestamp": "2025-08-02T16:27:47.730590"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries(rainier)2.jpg",
+    "filename": "cherries(rainier)2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries(rainier)2.jpg",
+    "timestamp": "2025-08-02T16:27:47.730590"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries.jpg",
+    "filename": "cherries.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries.jpg",
+    "timestamp": "2025-08-02T16:27:47.731206"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries10.jpg",
+    "filename": "cherries10.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries10.jpg",
+    "timestamp": "2025-08-02T16:27:47.731206"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries11.jpg",
+    "filename": "cherries11.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries11.jpg",
+    "timestamp": "2025-08-02T16:27:47.731206"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries12.jpg",
+    "filename": "cherries12.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries12.jpg",
+    "timestamp": "2025-08-02T16:27:47.731724"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries13.jpg",
+    "filename": "cherries13.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries13.jpg",
+    "timestamp": "2025-08-02T16:27:47.731724"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries2.jpg",
+    "filename": "cherries2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries2.jpg",
+    "timestamp": "2025-08-02T16:27:47.731724"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries3.jpg",
+    "filename": "cherries3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries3.jpg",
+    "timestamp": "2025-08-02T16:27:47.731724"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries4.jpg",
+    "filename": "cherries4.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries4.jpg",
+    "timestamp": "2025-08-02T16:27:47.731724"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries5.jpg",
+    "filename": "cherries5.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries5.jpg",
+    "timestamp": "2025-08-02T16:27:47.732243"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries6.jpg",
+    "filename": "cherries6.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries6.jpg",
+    "timestamp": "2025-08-02T16:27:47.732243"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries7.jpg",
+    "filename": "cherries7.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries7.jpg",
+    "timestamp": "2025-08-02T16:27:47.732243"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries8.jpg",
+    "filename": "cherries8.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries8.jpg",
+    "timestamp": "2025-08-02T16:27:47.732243"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries9.jpg",
+    "filename": "cherries9.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries9.jpg",
+    "timestamp": "2025-08-02T16:27:47.732243"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_currants.jpg",
+    "filename": "cherries_currants.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_currants.jpg",
+    "timestamp": "2025-08-02T16:27:47.732243"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_strawberries1.jpg",
+    "filename": "cherries_strawberries1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_strawberries1.jpg",
+    "timestamp": "2025-08-02T16:27:47.732243"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_strawberries2.jpg",
+    "filename": "cherries_strawberries2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_strawberries2.jpg",
+    "timestamp": "2025-08-02T16:27:47.732243"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax1.jpg",
+    "filename": "cherries_wax1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax1.jpg",
+    "timestamp": "2025-08-02T16:27:47.732243"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax2.jpg",
+    "filename": "cherries_wax2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax2.jpg",
+    "timestamp": "2025-08-02T16:27:47.732243"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax3.jpg",
+    "filename": "cherries_wax3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax3.jpg",
+    "timestamp": "2025-08-02T16:27:47.733248"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax4.jpg",
+    "filename": "cherries_wax4.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax4.jpg",
+    "timestamp": "2025-08-02T16:27:47.733248"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax5.jpg",
+    "filename": "cherries_wax5.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax5.jpg",
+    "timestamp": "2025-08-02T16:27:47.733248"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax6.jpg",
+    "filename": "cherries_wax6.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax6.jpg",
+    "timestamp": "2025-08-02T16:27:47.733248"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax7.jpg",
+    "filename": "cherries_wax7.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherries_wax7.jpg",
+    "timestamp": "2025-08-02T16:27:47.733248"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherry2.jpg",
+    "filename": "cherry2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherry2.jpg",
+    "timestamp": "2025-08-02T16:27:47.733248"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherry3.jpg",
+    "filename": "cherry3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherry3.jpg",
+    "timestamp": "2025-08-02T16:27:47.733248"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherry_strawberries.jpg",
+    "filename": "cherry_strawberries.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherry_strawberries.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherry_strawberries2.jpg",
+    "filename": "cherry_strawberries2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cherry_strawberries2.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\chestnut1.jpg",
+    "filename": "chestnut1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\chestnut1.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\chestnut3.jpg",
+    "filename": "chestnut3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\chestnut3.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cocos.jpg",
+    "filename": "cocos.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cocos.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja.jpg",
+    "filename": "cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja2.jpg",
+    "filename": "cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja2.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja3.jpg",
+    "filename": "cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja3.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cucumbers1.jpg",
+    "filename": "cucumbers1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cucumbers1.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cucumbers_cherries.jpg",
+    "filename": "cucumbers_cherries.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\cucumbers_cherries.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\dates.jpg",
+    "filename": "dates.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\dates.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\grape_pear_mandarine.jpg",
+    "filename": "grape_pear_mandarine.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\grape_pear_mandarine.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\grape_pear_mandarine2.jpg",
+    "filename": "grape_pear_mandarine2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\grape_pear_mandarine2.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\hazelnuts1.jpg",
+    "filename": "hazelnuts1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\hazelnuts1.jpg",
+    "timestamp": "2025-08-02T16:27:47.733751"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\hazelnuts2.jpg",
+    "filename": "hazelnuts2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\hazelnuts2.jpg",
+    "timestamp": "2025-08-02T16:27:47.734754"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\huckleberry.jpg",
+    "filename": "huckleberry.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\huckleberry.jpg",
+    "timestamp": "2025-08-02T16:27:47.734754"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\kachi.jpg",
+    "filename": "kachi.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\kachi.jpg",
+    "timestamp": "2025-08-02T16:27:47.734754"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\kiwi.jpg",
+    "filename": "kiwi.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\kiwi.jpg",
+    "timestamp": "2025-08-02T16:27:47.734754"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\kiwi_cherry_wax_hazelnut.jpg",
+    "filename": "kiwi_cherry_wax_hazelnut.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\kiwi_cherry_wax_hazelnut.jpg",
+    "timestamp": "2025-08-02T16:27:47.734754"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\kiwi_nut_cherries_wax_hazelnut.jpg",
+    "filename": "kiwi_nut_cherries_wax_hazelnut.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\kiwi_nut_cherries_wax_hazelnut.jpg",
+    "timestamp": "2025-08-02T16:27:47.735257"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\limes.jpg",
+    "filename": "limes.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\limes.jpg",
+    "timestamp": "2025-08-02T16:27:47.735257"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\lychee.jpg",
+    "filename": "lychee.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\lychee.jpg",
+    "timestamp": "2025-08-02T16:27:47.735257"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mango.jpg",
+    "filename": "mango.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mango.jpg",
+    "timestamp": "2025-08-02T16:27:47.735257"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mangos1.jpg",
+    "filename": "mangos1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mangos1.jpg",
+    "timestamp": "2025-08-02T16:27:47.735257"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mangos2.jpg",
+    "filename": "mangos2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mangos2.jpg",
+    "timestamp": "2025-08-02T16:27:47.735257"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mangos3.jpg",
+    "filename": "mangos3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mangos3.jpg",
+    "timestamp": "2025-08-02T16:27:47.735257"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mangos_bananas(lady_finger).jpg",
+    "filename": "mangos_bananas(lady_finger).jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mangos_bananas(lady_finger).jpg",
+    "timestamp": "2025-08-02T16:27:47.735257"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mangos_melon.jpg",
+    "filename": "mangos_melon.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mangos_melon.jpg",
+    "timestamp": "2025-08-02T16:27:47.735257"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mangos_melon_chestnuts.jpg",
+    "filename": "mangos_melon_chestnuts.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\mangos_melon_chestnuts.jpg",
+    "timestamp": "2025-08-02T16:27:47.735257"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\nut.jpg",
+    "filename": "nut.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\nut.jpg",
+    "timestamp": "2025-08-02T16:27:47.736263"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\onions1.jpg",
+    "filename": "onions1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\onions1.jpg",
+    "timestamp": "2025-08-02T16:27:47.736263"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\peaches.jpg",
+    "filename": "peaches.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\peaches.jpg",
+    "timestamp": "2025-08-02T16:27:47.736263"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pear.jpg",
+    "filename": "pear.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pear.jpg",
+    "timestamp": "2025-08-02T16:27:47.736263"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pear2.jpg",
+    "filename": "pear2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pear2.jpg",
+    "timestamp": "2025-08-02T16:27:47.736769"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pears1.jpg",
+    "filename": "pears1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pears1.jpg",
+    "timestamp": "2025-08-02T16:27:47.736769"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pears2.jpg",
+    "filename": "pears2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pears2.jpg",
+    "timestamp": "2025-08-02T16:27:47.736769"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pears3.jpg",
+    "filename": "pears3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pears3.jpg",
+    "timestamp": "2025-08-02T16:27:47.736769"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pears4.jpg",
+    "filename": "pears4.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pears4.jpg",
+    "timestamp": "2025-08-02T16:27:47.737284"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pears5.jpg",
+    "filename": "pears5.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pears5.jpg",
+    "timestamp": "2025-08-02T16:27:47.737284"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pears6.jpg",
+    "filename": "pears6.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pears6.jpg",
+    "timestamp": "2025-08-02T16:27:47.737284"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\peppers1.jpg",
+    "filename": "peppers1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\peppers1.jpg",
+    "timestamp": "2025-08-02T16:27:47.737284"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\physalis1.jpg",
+    "filename": "physalis1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\physalis1.jpg",
+    "timestamp": "2025-08-02T16:27:47.737284"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\physalis2.jpg",
+    "filename": "physalis2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\physalis2.jpg",
+    "timestamp": "2025-08-02T16:27:47.737800"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\plums_pears.jpg",
+    "filename": "plums_pears.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\plums_pears.jpg",
+    "timestamp": "2025-08-02T16:27:47.737800"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pomegranate.jpg",
+    "filename": "pomegranate.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pomegranate.jpg",
+    "timestamp": "2025-08-02T16:27:47.737800"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pomegranate2.jpg",
+    "filename": "pomegranate2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pomegranate2.jpg",
+    "timestamp": "2025-08-02T16:27:47.737800"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pumpkins1.jpg",
+    "filename": "pumpkins1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\pumpkins1.jpg",
+    "timestamp": "2025-08-02T16:27:47.737800"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\rambutans1.jpg",
+    "filename": "rambutans1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\rambutans1.jpg",
+    "timestamp": "2025-08-02T16:27:47.737800"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\rambutans2.jpg",
+    "filename": "rambutans2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\rambutans2.jpg",
+    "timestamp": "2025-08-02T16:27:47.737800"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\rambutans3.jpg",
+    "filename": "rambutans3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\rambutans3.jpg",
+    "timestamp": "2025-08-02T16:27:47.737800"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries1.jpg",
+    "filename": "raspberries1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries1.jpg",
+    "timestamp": "2025-08-02T16:27:47.737800"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries10.jpg",
+    "filename": "raspberries10.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries10.jpg",
+    "timestamp": "2025-08-02T16:27:47.737800"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries11.jpg",
+    "filename": "raspberries11.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries11.jpg",
+    "timestamp": "2025-08-02T16:27:47.738804"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries12.jpg",
+    "filename": "raspberries12.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries12.jpg",
+    "timestamp": "2025-08-02T16:27:47.738804"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries2.jpg",
+    "filename": "raspberries2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries2.jpg",
+    "timestamp": "2025-08-02T16:27:47.738804"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries3.jpg",
+    "filename": "raspberries3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries3.jpg",
+    "timestamp": "2025-08-02T16:27:47.738804"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries4.jpg",
+    "filename": "raspberries4.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries4.jpg",
+    "timestamp": "2025-08-02T16:27:47.738804"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries5.jpg",
+    "filename": "raspberries5.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries5.jpg",
+    "timestamp": "2025-08-02T16:27:47.739308"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries6.jpg",
+    "filename": "raspberries6.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries6.jpg",
+    "timestamp": "2025-08-02T16:27:47.739308"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries7.jpg",
+    "filename": "raspberries7.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries7.jpg",
+    "timestamp": "2025-08-02T16:27:47.739308"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries8.jpg",
+    "filename": "raspberries8.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries8.jpg",
+    "timestamp": "2025-08-02T16:27:47.739308"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries9.jpg",
+    "filename": "raspberries9.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberries9.jpg",
+    "timestamp": "2025-08-02T16:27:47.739308"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberry.jpg",
+    "filename": "raspberry.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberry.jpg",
+    "timestamp": "2025-08-02T16:27:47.739308"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberry2.jpg",
+    "filename": "raspberry2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberry2.jpg",
+    "timestamp": "2025-08-02T16:27:47.739308"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberry3.jpg",
+    "filename": "raspberry3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberry3.jpg",
+    "timestamp": "2025-08-02T16:27:47.739308"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberry4.jpg",
+    "filename": "raspberry4.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberry4.jpg",
+    "timestamp": "2025-08-02T16:27:47.739308"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberry5.jpg",
+    "filename": "raspberry5.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberry5.jpg",
+    "timestamp": "2025-08-02T16:27:47.739308"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberry_apple.jpg",
+    "filename": "raspberry_apple.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\raspberry_apple.jpg",
+    "timestamp": "2025-08-02T16:27:47.739308"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\red_currants.jpg",
+    "filename": "red_currants.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\red_currants.jpg",
+    "timestamp": "2025-08-02T16:27:47.740312"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\salak.jpg",
+    "filename": "salak.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\salak.jpg",
+    "timestamp": "2025-08-02T16:27:47.740312"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\salak2.jpg",
+    "filename": "salak2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\salak2.jpg",
+    "timestamp": "2025-08-02T16:27:47.740312"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries.jpg",
+    "filename": "strawberries.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries.jpg",
+    "timestamp": "2025-08-02T16:27:47.740312"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries1.jpg",
+    "filename": "strawberries1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries1.jpg",
+    "timestamp": "2025-08-02T16:27:47.740312"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries2.jpg",
+    "filename": "strawberries2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries2.jpg",
+    "timestamp": "2025-08-02T16:27:47.740820"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries3.jpg",
+    "filename": "strawberries3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries3.jpg",
+    "timestamp": "2025-08-02T16:27:47.740820"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries4.jpg",
+    "filename": "strawberries4.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries4.jpg",
+    "timestamp": "2025-08-02T16:27:47.740820"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries5.jpg",
+    "filename": "strawberries5.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries5.jpg",
+    "timestamp": "2025-08-02T16:27:47.740820"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries6.jpg",
+    "filename": "strawberries6.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries6.jpg",
+    "timestamp": "2025-08-02T16:27:47.740820"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries7.jpg",
+    "filename": "strawberries7.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries7.jpg",
+    "timestamp": "2025-08-02T16:27:47.740820"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries8.jpg",
+    "filename": "strawberries8.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\strawberries8.jpg",
+    "timestamp": "2025-08-02T16:27:47.740820"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tangelo.jpg",
+    "filename": "tangelo.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tangelo.jpg",
+    "timestamp": "2025-08-02T16:27:47.740820"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes1.jpg",
+    "filename": "tomatoes1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes1.jpg",
+    "timestamp": "2025-08-02T16:27:47.740820"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes2.jpg",
+    "filename": "tomatoes2.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes2.jpg",
+    "timestamp": "2025-08-02T16:27:47.740820"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes3.jpg",
+    "filename": "tomatoes3.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes3.jpg",
+    "timestamp": "2025-08-02T16:27:47.740820"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes4.jpg",
+    "filename": "tomatoes4.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes4.jpg",
+    "timestamp": "2025-08-02T16:27:47.740820"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes5.jpg",
+    "filename": "tomatoes5.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes5.jpg",
+    "timestamp": "2025-08-02T16:27:47.741827"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes6.jpg",
+    "filename": "tomatoes6.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes6.jpg",
+    "timestamp": "2025-08-02T16:27:47.741827"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes7.jpg",
+    "filename": "tomatoes7.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes7.jpg",
+    "timestamp": "2025-08-02T16:27:47.741827"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes8.jpg",
+    "filename": "tomatoes8.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes8.jpg",
+    "timestamp": "2025-08-02T16:27:47.741827"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes9.jpg",
+    "filename": "tomatoes9.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes9.jpg",
+    "timestamp": "2025-08-02T16:27:47.741827"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes_nuts_pecan.jpg",
+    "filename": "tomatoes_nuts_pecan.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes_nuts_pecan.jpg",
+    "timestamp": "2025-08-02T16:27:47.741827"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes_plums_peaches_apples_pears.jpg",
+    "filename": "tomatoes_plums_peaches_apples_pears.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\tomatoes_plums_peaches_apples_pears.jpg",
+    "timestamp": "2025-08-02T16:27:47.742332"
+  },
+  {
+    "image_path": "C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\water_melons1.jpg",
+    "filename": "water_melons1.jpg",
+    "error": "Görüntü okunamadı: C:\\Users\\kerem\\OneDrive\\Masaüstü\\PythonOpenCV\\OpenCVLearningProjects\\EvrimselSinirAğları(CNN)\\Fruits\\FruitsData\\fruits-360_multi\\test-multiple_fruits\\water_melons1.jpg",
+    "timestamp": "2025-08-02T16:27:47.742332"
+  }
+]

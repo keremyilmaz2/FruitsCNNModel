@@ -1,0 +1,89 @@
+{
+  "data": {
+    "dataset_path": "./FruitsData/fruits-360_100x100",
+    "train_path": "./FruitsData/fruits-360_100x100/fruits-360/Training",
+    "test_path": "./FruitsData/fruits-360_100x100/fruits-360/Test",
+    "validation_split": 0.2
+  },
+  "image": {
+    "image_size": [
+      100,
+      100
+    ],
+    "input_shape": [
+      100,
+      100,
+      3
+    ],
+    "color_channels": 3,
+    "normalization": true
+  },
+  "model": {
+    "num_classes": 206,
+    "model_name": "fruits_resnet50_finetune",
+    "architecture": "transfer_resnet50_finetune",
+    "dropout_rate": 0.4,
+    "batch_normalization": true
+  },
+  "training": {
+    "batch_size": 16,
+    "epochs": 30,
+    "learning_rate": 1e-05,
+    "optimizer": "adam",
+    "loss_function": "categorical_crossentropy",
+    "metrics": [
+      "accuracy"
+    ],
+    "validation_split": 0.15,
+    "shuffle": true,
+    "early_stopping_patience": 8,
+    "reduce_lr_patience": 4,
+    "save_best_only": true
+  },
+  "augmentation": {
+    "use_augmentation": true,
+    "rotation_range": 20,
+    "width_shift_range": 0.15,
+    "height_shift_range": 0.15,
+    "shear_range": 0.1,
+    "zoom_range": 0.15,
+    "horizontal_flip": true,
+    "vertical_flip": false,
+    "fill_mode": "nearest"
+  },
+  "paths": {
+    "models_dir": "models",
+    "logs_dir": "logs",
+    "results_dir": "results",
+    "checkpoints_dir": "checkpoints",
+    "predictions_dir": "predictions"
+  },
+  "save": {
+    "save_model": true,
+    "save_weights": true,
+    "save_history": true,
+    "model_format": "h5",
+    "checkpoint_monitor": "val_accuracy",
+    "checkpoint_mode": "max",
+    "save_best_only": true
+  },
+  "visualization": {
+    "plot_history": true,
+    "plot_confusion_matrix": true,
+    "save_plots": true,
+    "plot_sample_predictions": true,
+    "samples_to_plot": 25
+  },
+  "gpu": {
+    "use_gpu": true,
+    "memory_growth": true,
+    "mixed_precision": false
+  },
+  "class_names": [],
+  "debug": {
+    "verbose": 1,
+    "log_level": "INFO",
+    "save_debug_images": true,
+    "print_model_summary": true
+  }
+}

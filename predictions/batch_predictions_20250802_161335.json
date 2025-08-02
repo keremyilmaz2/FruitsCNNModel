@@ -1,0 +1,752 @@
+[
+  {
+    "image_path": "test_images/single_tests\\alot_piece_banana.jpg",
+    "filename": "alot_piece_banana.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Physalis with Husk 1",
+        "confidence": 0.9953307509422302,
+        "percentage": 99.53307509422302
+      },
+      {
+        "rank": 2,
+        "class": "Physalis 1",
+        "confidence": 0.0019385023042559624,
+        "percentage": 0.19385023042559624
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.001546689891256392,
+        "percentage": 0.1546689891256392
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:29.339997"
+  },
+  {
+    "image_path": "test_images/single_tests\\apple_green_1.jpg",
+    "filename": "apple_green_1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pear 2",
+        "confidence": 0.9782206416130066,
+        "percentage": 97.82206416130066
+      },
+      {
+        "rank": 2,
+        "class": "Pear Monster 1",
+        "confidence": 0.013624751940369606,
+        "percentage": 1.3624751940369606
+      },
+      {
+        "rank": 3,
+        "class": "Apple Golden 2",
+        "confidence": 0.007153822109103203,
+        "percentage": 0.7153822109103203
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:29.512012"
+  },
+  {
+    "image_path": "test_images/single_tests\\apple_red_1.jpg",
+    "filename": "apple_red_1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cherry Rainier 3",
+        "confidence": 0.9713776111602783,
+        "percentage": 97.13776111602783
+      },
+      {
+        "rank": 2,
+        "class": "Banana Red 1",
+        "confidence": 0.013388770632445812,
+        "percentage": 1.3388770632445812
+      },
+      {
+        "rank": 3,
+        "class": "Pear Red 1",
+        "confidence": 0.006356776226311922,
+        "percentage": 0.6356776226311922
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:29.720116"
+  },
+  {
+    "image_path": "test_images/single_tests\\apple_yellow_1.jpg",
+    "filename": "apple_yellow_1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Apple 18",
+        "confidence": 0.26726034283638,
+        "percentage": 26.726034283638
+      },
+      {
+        "rank": 2,
+        "class": "Apple 17",
+        "confidence": 0.15157929062843323,
+        "percentage": 15.157929062843323
+      },
+      {
+        "rank": 3,
+        "class": "Cucumber 5",
+        "confidence": 0.12862075865268707,
+        "percentage": 12.862075865268707
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:30.196137"
+  },
+  {
+    "image_path": "test_images/single_tests\\avocado_green.jpg",
+    "filename": "avocado_green.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cucumber 9",
+        "confidence": 0.3574121594429016,
+        "percentage": 35.74121594429016
+      },
+      {
+        "rank": 2,
+        "class": "Cucumber 11",
+        "confidence": 0.3133620619773865,
+        "percentage": 31.336206197738647
+      },
+      {
+        "rank": 3,
+        "class": "Potato Red 1",
+        "confidence": 0.15481318533420563,
+        "percentage": 15.481318533420563
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:30.389583"
+  },
+  {
+    "image_path": "test_images/single_tests\\beetroot_red.jpg",
+    "filename": "beetroot_red.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pitahaya Red 1",
+        "confidence": 0.9928572177886963,
+        "percentage": 99.28572177886963
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.002933468669652939,
+        "percentage": 0.2933468669652939
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.0012351411860436201,
+        "percentage": 0.12351411860436201
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:30.648614"
+  },
+  {
+    "image_path": "test_images/single_tests\\beetroot_reds.jpg",
+    "filename": "beetroot_reds.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Banana Red 1",
+        "confidence": 0.9526172876358032,
+        "percentage": 95.26172876358032
+      },
+      {
+        "rank": 2,
+        "class": "Tomato 2",
+        "confidence": 0.005457865074276924,
+        "percentage": 0.5457865074276924
+      },
+      {
+        "rank": 3,
+        "class": "Cherry 2",
+        "confidence": 0.00342502910643816,
+        "percentage": 0.342502910643816
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:30.810066"
+  },
+  {
+    "image_path": "test_images/single_tests\\carrot.jpg",
+    "filename": "carrot.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.9797115921974182,
+        "percentage": 97.97115921974182
+      },
+      {
+        "rank": 2,
+        "class": "Pear Red 1",
+        "confidence": 0.00503074424341321,
+        "percentage": 0.503074424341321
+      },
+      {
+        "rank": 3,
+        "class": "Banana Red 1",
+        "confidence": 0.0022665834985673428,
+        "percentage": 0.22665834985673428
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:31.030534"
+  },
+  {
+    "image_path": "test_images/single_tests\\cherries.jpg",
+    "filename": "cherries.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie 2",
+        "confidence": 0.8297467231750488,
+        "percentage": 82.97467231750488
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.06490489095449448,
+        "percentage": 6.490489095449448
+      },
+      {
+        "rank": 3,
+        "class": "Mulberry 1",
+        "confidence": 0.024712475016713142,
+        "percentage": 2.4712475016713142
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:31.187778"
+  },
+  {
+    "image_path": "test_images/single_tests\\cherry_single.jpg",
+    "filename": "cherry_single.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie not rippen 1",
+        "confidence": 0.22874484956264496,
+        "percentage": 22.874484956264496
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 1",
+        "confidence": 0.20765407383441925,
+        "percentage": 20.765407383441925
+      },
+      {
+        "rank": 3,
+        "class": "Apple Red Yellow 2",
+        "confidence": 0.1719241440296173,
+        "percentage": 17.19241440296173
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:31.314016"
+  },
+  {
+    "image_path": "test_images/single_tests\\cherry_tomato.jpg",
+    "filename": "cherry_tomato.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Tomato 3",
+        "confidence": 0.37303799390792847,
+        "percentage": 37.30379939079285
+      },
+      {
+        "rank": 2,
+        "class": "Carambula 1",
+        "confidence": 0.313551127910614,
+        "percentage": 31.3551127910614
+      },
+      {
+        "rank": 3,
+        "class": "Mangostan 1",
+        "confidence": 0.14042113721370697,
+        "percentage": 14.042113721370697
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:31.462933"
+  },
+  {
+    "image_path": "test_images/single_tests\\cloesed_walnut.jpg",
+    "filename": "cloesed_walnut.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Physalis with Husk 1",
+        "confidence": 0.9362208247184753,
+        "percentage": 93.62208247184753
+      },
+      {
+        "rank": 2,
+        "class": "Corn 1",
+        "confidence": 0.014277690090239048,
+        "percentage": 1.4277690090239048
+      },
+      {
+        "rank": 3,
+        "class": "Cantaloupe 2",
+        "confidence": 0.004285958595573902,
+        "percentage": 0.4285958595573902
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:31.594324"
+  },
+  {
+    "image_path": "test_images/single_tests\\cucumber.jpg",
+    "filename": "cucumber.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Corn Husk 1",
+        "confidence": 0.9976505637168884,
+        "percentage": 99.76505637168884
+      },
+      {
+        "rank": 2,
+        "class": "Zucchini 1",
+        "confidence": 0.0013555907644331455,
+        "percentage": 0.13555907644331455
+      },
+      {
+        "rank": 3,
+        "class": "Hazelnut 1",
+        "confidence": 0.0003923431213479489,
+        "percentage": 0.03923431213479489
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:31.720437"
+  },
+  {
+    "image_path": "test_images/single_tests\\grape_green.jpg",
+    "filename": "grape_green.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.9968530535697937,
+        "percentage": 99.68530535697937
+      },
+      {
+        "rank": 2,
+        "class": "Quince 1",
+        "confidence": 0.001849690335802734,
+        "percentage": 0.1849690335802734
+      },
+      {
+        "rank": 3,
+        "class": "Physalis with Husk 1",
+        "confidence": 0.0002289151307195425,
+        "percentage": 0.02289151307195425
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:31.947220"
+  },
+  {
+    "image_path": "test_images/single_tests\\grape_purple.jpg",
+    "filename": "grape_purple.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Mulberry 1",
+        "confidence": 0.7411178350448608,
+        "percentage": 74.11178350448608
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 2",
+        "confidence": 0.253467857837677,
+        "percentage": 25.3467857837677
+      },
+      {
+        "rank": 3,
+        "class": "Rambutan 1",
+        "confidence": 0.0009024478495121002,
+        "percentage": 0.09024478495121002
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:32.102596"
+  },
+  {
+    "image_path": "test_images/single_tests\\green_banana.jpg",
+    "filename": "green_banana.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Banana Lady Finger 1",
+        "confidence": 0.8764507174491882,
+        "percentage": 87.64507174491882
+      },
+      {
+        "rank": 2,
+        "class": "Banana 1",
+        "confidence": 0.10246174782514572,
+        "percentage": 10.246174782514572
+      },
+      {
+        "rank": 3,
+        "class": "Corn Husk 1",
+        "confidence": 0.013828194700181484,
+        "percentage": 1.3828194700181484
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:32.341832"
+  },
+  {
+    "image_path": "test_images/single_tests\\hazelnuts.jpg",
+    "filename": "hazelnuts.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Blackberrie 2",
+        "confidence": 0.7784613370895386,
+        "percentage": 77.84613370895386
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.11382918059825897,
+        "percentage": 11.382918059825897
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 1",
+        "confidence": 0.05424408242106438,
+        "percentage": 5.424408242106438
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:32.548514"
+  },
+  {
+    "image_path": "test_images/single_tests\\hazelnut_single.jpg",
+    "filename": "hazelnut_single.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Kaki 1",
+        "confidence": 0.9162067174911499,
+        "percentage": 91.62067174911499
+      },
+      {
+        "rank": 2,
+        "class": "Cherry 4",
+        "confidence": 0.024015318602323532,
+        "percentage": 2.401531860232353
+      },
+      {
+        "rank": 3,
+        "class": "Grapefruit Pink 1",
+        "confidence": 0.017192712053656578,
+        "percentage": 1.7192712053656578
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:32.770964"
+  },
+  {
+    "image_path": "test_images/single_tests\\inside_walnut.jpg",
+    "filename": "inside_walnut.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.7964487671852112,
+        "percentage": 79.64487671852112
+      },
+      {
+        "rank": 2,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.11990996450185776,
+        "percentage": 11.990996450185776
+      },
+      {
+        "rank": 3,
+        "class": "Carambula 1",
+        "confidence": 0.03797385096549988,
+        "percentage": 3.797385096549988
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:32.963134"
+  },
+  {
+    "image_path": "test_images/single_tests\\lemon.jpg",
+    "filename": "lemon.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cantaloupe 1",
+        "confidence": 0.9985859394073486,
+        "percentage": 99.85859394073486
+      },
+      {
+        "rank": 2,
+        "class": "Physalis with Husk 1",
+        "confidence": 0.00101206183899194,
+        "percentage": 0.101206183899194
+      },
+      {
+        "rank": 3,
+        "class": "Kumquats 1",
+        "confidence": 0.00015286503185052425,
+        "percentage": 0.015286503185052425
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:33.180710"
+  },
+  {
+    "image_path": "test_images/single_tests\\mango_yellow.jpg",
+    "filename": "mango_yellow.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.7944750189781189,
+        "percentage": 79.44750189781189
+      },
+      {
+        "rank": 2,
+        "class": "Physalis with Husk 1",
+        "confidence": 0.17689506709575653,
+        "percentage": 17.689506709575653
+      },
+      {
+        "rank": 3,
+        "class": "Pear Monster 1",
+        "confidence": 0.01360655203461647,
+        "percentage": 1.360655203461647
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:33.384079"
+  },
+  {
+    "image_path": "test_images/single_tests\\mixed_nuts.jpg",
+    "filename": "mixed_nuts.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.5181350111961365,
+        "percentage": 51.81350111961365
+      },
+      {
+        "rank": 2,
+        "class": "Cauliflower 1",
+        "confidence": 0.22942686080932617,
+        "percentage": 22.942686080932617
+      },
+      {
+        "rank": 3,
+        "class": "Blackberrie 2",
+        "confidence": 0.2210415005683899,
+        "percentage": 22.10415005683899
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:33.536049"
+  },
+  {
+    "image_path": "test_images/single_tests\\one_piece_banana.jpg",
+    "filename": "one_piece_banana.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cherry Rainier 2",
+        "confidence": 0.6718592643737793,
+        "percentage": 67.18592643737793
+      },
+      {
+        "rank": 2,
+        "class": "Hazelnut 1",
+        "confidence": 0.21708111464977264,
+        "percentage": 21.708111464977264
+      },
+      {
+        "rank": 3,
+        "class": "Banana Red 1",
+        "confidence": 0.04468269646167755,
+        "percentage": 4.468269646167755
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:33.752515"
+  },
+  {
+    "image_path": "test_images/single_tests\\orange_fresh.jpg",
+    "filename": "orange_fresh.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.9996150732040405,
+        "percentage": 99.96150732040405
+      },
+      {
+        "rank": 2,
+        "class": "Physalis with Husk 1",
+        "confidence": 0.00028775609098374844,
+        "percentage": 0.028775609098374844
+      },
+      {
+        "rank": 3,
+        "class": "Quince 1",
+        "confidence": 4.687045293394476e-05,
+        "percentage": 0.004687045293394476
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:33.949058"
+  },
+  {
+    "image_path": "test_images/single_tests\\orange_fresh_1.jpg",
+    "filename": "orange_fresh_1.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.5056093335151672,
+        "percentage": 50.560933351516724
+      },
+      {
+        "rank": 2,
+        "class": "Apple Golden 1",
+        "confidence": 0.3659607172012329,
+        "percentage": 36.59607172012329
+      },
+      {
+        "rank": 3,
+        "class": "Apple Red Yellow 1",
+        "confidence": 0.10402435809373856,
+        "percentage": 10.402435809373856
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:34.069853"
+  },
+  {
+    "image_path": "test_images/single_tests\\pineapple.jpg",
+    "filename": "pineapple.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Pineapple Mini 1",
+        "confidence": 0.3102990686893463,
+        "percentage": 31.02990686893463
+      },
+      {
+        "rank": 2,
+        "class": "Cactus fruit 1",
+        "confidence": 0.1355559527873993,
+        "percentage": 13.55559527873993
+      },
+      {
+        "rank": 3,
+        "class": "Ginger Root 1",
+        "confidence": 0.05869828537106514,
+        "percentage": 5.869828537106514
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:34.243381"
+  },
+  {
+    "image_path": "test_images/single_tests\\red_tomato.jpg",
+    "filename": "red_tomato.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Tomato 2",
+        "confidence": 0.42065519094467163,
+        "percentage": 42.06551909446716
+      },
+      {
+        "rank": 2,
+        "class": "Cherry Sour 1",
+        "confidence": 0.35016804933547974,
+        "percentage": 35.016804933547974
+      },
+      {
+        "rank": 3,
+        "class": "Tomato 3",
+        "confidence": 0.11242016404867172,
+        "percentage": 11.242016404867172
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:34.486802"
+  },
+  {
+    "image_path": "test_images/single_tests\\strawberries.jpg",
+    "filename": "strawberries.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Carambula 1",
+        "confidence": 0.917254626750946,
+        "percentage": 91.7254626750946
+      },
+      {
+        "rank": 2,
+        "class": "Pitahaya Red 1",
+        "confidence": 0.02387792058289051,
+        "percentage": 2.387792058289051
+      },
+      {
+        "rank": 3,
+        "class": "Tomato 3",
+        "confidence": 0.009895212948322296,
+        "percentage": 0.9895212948322296
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:34.724978"
+  },
+  {
+    "image_path": "test_images/single_tests\\strawberry.jpg",
+    "filename": "strawberry.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cherry Rainier 3",
+        "confidence": 0.9317054152488708,
+        "percentage": 93.17054152488708
+      },
+      {
+        "rank": 2,
+        "class": "Pear Red 1",
+        "confidence": 0.022502316161990166,
+        "percentage": 2.2502316161990166
+      },
+      {
+        "rank": 3,
+        "class": "Physalis with Husk 1",
+        "confidence": 0.013213579542934895,
+        "percentage": 1.3213579542934895
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:34.989271"
+  },
+  {
+    "image_path": "test_images/single_tests\\unripe_apple.jpg",
+    "filename": "unripe_apple.jpg",
+    "predictions": [
+      {
+        "rank": 1,
+        "class": "Cauliflower 1",
+        "confidence": 0.969657838344574,
+        "percentage": 96.9657838344574
+      },
+      {
+        "rank": 2,
+        "class": "Blackberrie 2",
+        "confidence": 0.013684378936886787,
+        "percentage": 1.3684378936886787
+      },
+      {
+        "rank": 3,
+        "class": "Watermelon 1",
+        "confidence": 0.002633505268022418,
+        "percentage": 0.2633505268022418
+      }
+    ],
+    "timestamp": "2025-08-02T16:13:35.145170"
+  }
+]

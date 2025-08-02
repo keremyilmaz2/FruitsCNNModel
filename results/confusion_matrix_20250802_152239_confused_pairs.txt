@@ -1,0 +1,24 @@
+En Çok Karıştırılan Sınıf Çiftleri
+--------------------------------------------------------------------------------
+Gerçek Sınıf         Tahmin Edilen        Sayı     Yüzde   
+--------------------------------------------------------------------------------
+Tomato 9             Apple 17             143      59.83   %
+Cherry Wax Red 3     Apple 17             132      88.00   %
+Apple 5              Apple 17             122      83.56   %
+Quince 4             Cherimoya 1          120      48.19   %
+Onion Red Peeled 1   Onion Red 1          102      65.81   %
+Cherry 2             Cherry 4             98       39.84   %
+Apricot 1            Orange 1             91       55.49   %
+Nectarine Flat 1     Apple 17             91       56.88   %
+Tomato Heart 1       Pepper Red 1         82       35.96   %
+Beetroot 1           Cherimoya 1          81       54.00   %
+Cherry Rainier 1     Cherry Rainier 2     77       31.30   %
+Nut 3                Nut 2                74       93.67   %
+Melon Piel de Sapo 1 Avocado ripe 1       72       29.27   %
+Apple Red 2          Apple Braeburn 1     70       42.68   %
+Tomato 10            Apple 8              62       27.19   %
+Pear Red 1           Quince 4             61       27.48   %
+Nut 4                Nut 2                60       75.95   %
+Tomato 10            Apple 19             60       26.32   %
+Pear Forelle 1       Nut 3                57       24.36   %
+Apple 8              Apple 17             56       24.56   %

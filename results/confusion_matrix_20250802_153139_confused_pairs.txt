@@ -1,0 +1,24 @@
+En Çok Karıştırılan Sınıf Çiftleri
+--------------------------------------------------------------------------------
+Gerçek Sınıf         Tahmin Edilen        Sayı     Yüzde   
+--------------------------------------------------------------------------------
+Apple worm 1         Apple 18             98       42.42   %
+Tomato Heart 1       Pepper Red 1         88       38.60   %
+Tomato 9             Apple 17             87       36.40   %
+Apple Braeburn 1     Nectarine 1          74       45.12   %
+Nut 3                Nut 2                71       89.87   %
+Onion White 1        Apple hit 1          71       48.63   %
+Apple Golden 3       Apple Granny Smith 1 68       42.24   %
+Beetroot 1           Cherimoya 1          65       43.33   %
+Cucumber 10          Pear Kaiser 1        64       26.67   %
+Apple 5              Apple 17             63       43.15   %
+Cherry 2             Cherry 4             59       23.98   %
+Peach 1              Nectarine Flat 1     57       34.76   %
+Tomato 3             Tomato 1             56       22.76   %
+Potato Red 1         Potato Sweet 1       55       36.67   %
+Apple 10             Apple 8              53       22.94   %
+Avocado Green 1      Avocado Black 1      52       22.51   %
+Onion Red Peeled 1   Onion Red 1          52       33.55   %
+Tomato 5             Tomato 1             51       22.97   %
+Nut 4                Nut 2                49       62.03   %
+Apple 17             Pear Kaiser 1        47       23.38   %

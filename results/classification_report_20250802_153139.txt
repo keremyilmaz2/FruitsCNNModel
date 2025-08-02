@@ -1,0 +1,30 @@
+Detaylı Sınıflandırma Raporu
+============================================================
+                 precision  recall  f1-score     support
+Apple 10            0.9770  0.7359    0.8395    231.0000
+Apple 11            0.9308  0.8521    0.8897    142.0000
+Apple 12            0.9920  0.8052    0.8889    154.0000
+Apple 13            0.8929  0.8511    0.8715    235.0000
+Apple 14            0.8713  0.5714    0.6902    154.0000
+...                    ...     ...       ...         ...
+Zucchini 1          1.0000  0.9750    0.9873     80.0000
+Zucchini dark 1     0.8511  1.0000    0.9195     80.0000
+accuracy            0.8602  0.8602    0.8602      0.8602
+macro avg           0.8858  0.8577    0.8567  34711.0000
+weighted avg        0.8886  0.8602    0.8606  34711.0000
+
+[209 rows x 4 columns]
+
+En İyi 5 Sınıf (F1-Score):
+  Apple 6: 1.0000
+  Apple Core 1: 1.0000
+  Beans 1: 1.0000
+  Cantaloupe 1: 1.0000
+  Cherry 1: 1.0000
+
+En Kötü 5 Sınıf (F1-Score):
+  Nut 3: 0.0976
+  Nut 4: 0.2515
+  Cherry Wax not ripen 2: 0.2727
+  Nut 2: 0.2940
+  Beetroot 1: 0.3665

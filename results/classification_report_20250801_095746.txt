@@ -1,0 +1,213 @@
+Classification Report:
+                           precision    recall  f1-score   support
+
+                 Apple 10       0.98      0.74      0.84       231
+                 Apple 11       0.93      0.85      0.89       142
+                 Apple 12       0.99      0.81      0.89       154
+                 Apple 13       0.89      0.85      0.87       235
+                 Apple 14       0.87      0.57      0.69       154
+                 Apple 17       0.33      0.75      0.46       201
+                 Apple 18       0.40      0.84      0.54       160
+                 Apple 19       0.70      0.77      0.74       241
+                  Apple 5       0.46      0.34      0.39       146
+                  Apple 6       1.00      1.00      1.00       157
+                  Apple 7       0.94      0.94      0.94       229
+                  Apple 8       0.44      0.83      0.58       228
+                  Apple 9       0.82      0.70      0.75       231
+         Apple Braeburn 1       0.77      0.55      0.64       164
+             Apple Core 1       1.00      1.00      1.00        78
+     Apple Crimson Snow 1       0.88      0.59      0.70       148
+           Apple Golden 1       0.98      1.00      0.99       160
+           Apple Golden 2       0.87      0.99      0.93       164
+           Apple Golden 3       0.90      0.58      0.70       161
+     Apple Granny Smith 1       0.71      1.00      0.83       164
+        Apple Pink Lady 1       0.85      0.89      0.87       152
+              Apple Red 1       1.00      0.92      0.96       164
+              Apple Red 2       1.00      0.71      0.83       164
+              Apple Red 3       0.92      0.99      0.96       144
+    Apple Red Delicious 1       0.91      0.95      0.93       166
+       Apple Red Yellow 1       0.90      0.94      0.92       164
+       Apple Red Yellow 2       0.98      0.98      0.98       219
+           Apple Rotten 1       0.84      0.72      0.77       162
+              Apple hit 1       0.75      0.96      0.84       234
+             Apple worm 1       0.97      0.27      0.42       231
+                Apricot 1       1.00      0.96      0.98       164
+                Avocado 1       0.93      1.00      0.96       143
+          Avocado Black 1       0.58      0.80      0.68       231
+          Avocado Green 1       0.96      0.46      0.63       231
+           Avocado ripe 1       0.86      0.99      0.92       166
+                 Banana 1       0.86      0.93      0.89       166
+                 Banana 3       0.84      0.64      0.73        77
+                 Banana 4       0.73      0.93      0.82        84
+     Banana Lady Finger 1       1.00      0.74      0.85       152
+             Banana Red 1       1.00      0.75      0.86       166
+                  Beans 1       1.00      1.00      1.00        77
+               Beetroot 1       0.85      0.23      0.37       150
+            Blackberrie 1       0.86      0.82      0.84       150
+            Blackberrie 2       0.77      1.00      0.87        75
+Blackberrie half rippen 1       0.72      1.00      0.84       150
+ Blackberrie not rippen 1       1.00      0.78      0.88       225
+              Blueberry 1       1.00      0.94      0.97       154
+            Cabbage red 1       0.75      0.96      0.84        49
+          Cabbage white 1       0.98      1.00      0.99        47
+           Cactus fruit 1       0.96      0.87      0.91       166
+     Cactus fruit green 1       0.95      0.97      0.96       231
+       Cactus fruit red 1       0.92      0.80      0.86       237
+              Caju seed 1       1.00      0.97      0.99        75
+             Cantaloupe 1       1.00      1.00      1.00       164
+             Cantaloupe 2       0.96      1.00      0.98       164
+              Carambula 1       0.95      0.94      0.95       166
+                 Carrot 1       0.82      1.00      0.90        50
+            Cauliflower 1       0.85      1.00      0.92       234
+              Cherimoya 1       0.72      0.98      0.83       320
+                 Cherry 1       1.00      1.00      1.00       164
+                 Cherry 2       0.99      0.76      0.86       246
+                 Cherry 3       1.00      0.95      0.98       231
+                 Cherry 4       0.79      1.00      0.89       231
+                 Cherry 5       1.00      0.95      0.97       228
+         Cherry Rainier 1       0.95      1.00      0.97       246
+         Cherry Rainier 2       0.98      1.00      0.99       231
+         Cherry Rainier 3       1.00      0.95      0.97       228
+            Cherry Sour 1       1.00      0.97      0.99       150
+       Cherry Wax Black 1       1.00      1.00      1.00       164
+         Cherry Wax Red 1       0.99      1.00      0.99       164
+         Cherry Wax Red 2       0.93      1.00      0.96       150
+         Cherry Wax Red 3       0.85      0.51      0.64       150
+      Cherry Wax Yellow 1       1.00      1.00      1.00       164
+   Cherry Wax not ripen 1       0.85      0.96      0.90       225
+   Cherry Wax not ripen 2       1.00      0.16      0.27        76
+               Chestnut 1       0.89      0.88      0.88       153
+             Clementine 1       0.94      1.00      0.97       166
+                  Cocos 1       0.75      1.00      0.86       166
+                   Corn 1       0.93      0.46      0.62       150
+              Corn Husk 1       0.82      0.66      0.73       154
+               Cucumber 1       1.00      1.00      1.00        50
+              Cucumber 10       0.44      0.50      0.47       240
+              Cucumber 11       0.97      0.92      0.95        78
+               Cucumber 3       0.95      0.88      0.91        81
+               Cucumber 4       0.75      0.61      0.67        76
+               Cucumber 5       0.88      0.88      0.88       234
+               Cucumber 7       0.87      0.78      0.82       156
+               Cucumber 9       0.86      0.72      0.78       154
+          Cucumber Ripe 1       1.00      0.95      0.98       130
+          Cucumber Ripe 2       1.00      0.99      1.00       156
+                  Dates 1       0.75      1.00      0.86       166
+               Eggplant 1       0.99      0.74      0.85       156
+          Eggplant long 1       1.00      1.00      1.00        80
+                    Fig 1       0.94      1.00      0.97       234
+            Ginger Root 1       1.00      0.72      0.84        99
+             Gooseberry 1       0.97      0.93      0.95       154
+             Granadilla 1       0.94      1.00      0.97       166
+             Grape Blue 1       0.99      0.99      0.99       328
+             Grape Pink 1       0.77      1.00      0.87       164
+            Grape White 1       1.00      1.00      1.00       166
+            Grape White 2       1.00      1.00      1.00       166
+            Grape White 3       1.00      1.00      1.00       164
+            Grape White 4       1.00      1.00      1.00       158
+        Grapefruit Pink 1       1.00      1.00      1.00       166
+       Grapefruit White 1       0.90      1.00      0.95       164
+                  Guava 1       1.00      1.00      1.00       166
+               Hazelnut 1       0.95      1.00      0.97       157
+            Huckleberry 1       0.81      1.00      0.89       166
+                   Kaki 1       0.98      0.99      0.99       166
+                   Kiwi 1       1.00      0.74      0.85       156
+               Kohlrabi 1       0.92      0.76      0.84       157
+               Kumquats 1       0.98      1.00      0.99       166
+                  Lemon 1       1.00      0.88      0.94       164
+            Lemon Meyer 1       1.00      1.00      1.00       166
+                  Limes 1       1.00      1.00      1.00       166
+                 Lychee 1       1.00      1.00      1.00       166
+              Mandarine 1       1.00      1.00      1.00       166
+                  Mango 1       1.00      0.98      0.99       166
+              Mango Red 1       0.75      0.82      0.78       142
+              Mangostan 1       0.95      0.97      0.96       102
+               Maracuja 1       0.99      1.00      1.00       166
+     Melon Piel de Sapo 1       0.90      0.95      0.93       246
+               Mulberry 1       0.99      0.87      0.93       164
+              Nectarine 1       0.60      0.98      0.74       164
+         Nectarine Flat 1       0.56      0.54      0.55       160
+                    Nut 1       0.76      0.49      0.60        80
+                    Nut 2       0.19      0.71      0.29        79
+                    Nut 3       0.09      0.10      0.10        79
+                    Nut 4       0.24      0.27      0.25        79
+                    Nut 5       0.88      0.26      0.40        80
+             Nut Forest 1       0.99      0.52      0.68       218
+              Nut Pecan 1       0.92      0.93      0.92       178
+              Onion Red 1       0.69      0.97      0.81       150
+       Onion Red Peeled 1       0.84      0.54      0.66       155
+            Onion White 1       0.72      0.47      0.57       146
+                 Orange 1       1.00      1.00      1.00       160
+                 Papaya 1       0.96      0.96      0.96       164
+          Passion Fruit 1       0.87      0.77      0.81       166
+                  Peach 1       0.96      0.60      0.74       164
+                  Peach 2       1.00      1.00      1.00       246
+             Peach Flat 1       0.90      0.98      0.94       164
+                   Pear 1       1.00      0.95      0.97       164
+                   Pear 2       1.00      0.69      0.82       232
+                   Pear 3       0.71      0.76      0.73        72
+             Pear Abate 1       0.90      0.93      0.91       166
+           Pear Forelle 1       0.84      0.71      0.77       234
+            Pear Kaiser 1       0.31      1.00      0.47       102
+           Pear Monster 1       1.00      0.67      0.81       166
+               Pear Red 1       1.00      0.92      0.96       222
+             Pear Stone 1       0.98      0.88      0.93       237
+          Pear Williams 1       0.85      1.00      0.92       166
+                 Pepino 1       0.84      0.95      0.89       166
+           Pepper Green 1       0.93      1.00      0.96       148
+          Pepper Orange 1       1.00      0.98      0.99       234
+             Pepper Red 1       0.70      1.00      0.83       222
+          Pepper Yellow 1       1.00      1.00      1.00       222
+               Physalis 1       1.00      1.00      1.00       164
+     Physalis with Husk 1       0.84      0.91      0.87       164
+              Pineapple 1       1.00      1.00      1.00       166
+         Pineapple Mini 1       1.00      1.00      1.00       163
+              Pistachio 1       0.77      0.97      0.86       231
+           Pitahaya Red 1       0.78      1.00      0.88       166
+                   Plum 1       0.97      1.00      0.98       151
+                   Plum 2       0.98      1.00      0.99       142
+                   Plum 3       0.76      0.68      0.72       304
+            Pomegranate 1       0.98      1.00      0.99       164
+         Pomelo Sweetie 1       1.00      1.00      1.00       153
+             Potato Red 1       0.97      0.56      0.71       150
+      Potato Red Washed 1       1.00      0.77      0.87       151
+           Potato Sweet 1       0.52      0.55      0.53       150
+           Potato White 1       1.00      0.41      0.58       150
+                 Quince 1       0.99      1.00      1.00       166
+                 Quince 2       0.88      0.63      0.73       240
+                 Quince 3       0.98      0.76      0.86       242
+                 Quince 4       0.75      0.86      0.80       249
+               Rambutan 1       0.97      1.00      0.98       164
+              Raspberry 1       1.00      1.00      1.00       166
+             Redcurrant 1       1.00      1.00      1.00       164
+                  Salak 1       0.88      1.00      0.93       162
+             Strawberry 1       1.00      1.00      1.00       164
+       Strawberry Wedge 1       1.00      0.90      0.94       246
+              Tamarillo 1       1.00      1.00      1.00       166
+                Tangelo 1       1.00      0.91      0.95       166
+                 Tomato 1       0.69      0.99      0.82       246
+                Tomato 10       0.82      0.78      0.80       228
+                 Tomato 2       1.00      0.95      0.97       225
+                 Tomato 3       0.98      0.63      0.77       246
+                 Tomato 4       1.00      1.00      1.00       160
+                 Tomato 5       0.81      0.75      0.78       222
+                 Tomato 7       1.00      0.97      0.98       231
+                 Tomato 8       0.79      0.65      0.71       239
+                 Tomato 9       0.78      0.51      0.62       239
+   Tomato Cherry Maroon 1       1.00      0.97      0.98       100
+   Tomato Cherry Orange 1       0.85      1.00      0.92       100
+      Tomato Cherry Red 1       1.00      0.88      0.94       164
+      Tomato Cherry Red 2       0.83      1.00      0.91       100
+   Tomato Cherry Yellow 1       1.00      1.00      1.00       100
+           Tomato Heart 1       0.49      0.61      0.54       228
+          Tomato Maroon 1       0.96      1.00      0.98       127
+          Tomato Maroon 2       1.00      0.65      0.79       147
+          Tomato Yellow 1       1.00      0.98      0.99       153
+       Tomato not Ripen 1       1.00      0.92      0.96       158
+                 Walnut 1       0.81      1.00      0.90       249
+             Watermelon 1       0.92      0.76      0.83       157
+               Zucchini 1       1.00      0.97      0.99        80
+          Zucchini dark 1       0.85      1.00      0.92        80
+
+                 accuracy                           0.86     34711
+                macro avg       0.89      0.86      0.86     34711
+             weighted avg       0.89      0.86      0.86     34711

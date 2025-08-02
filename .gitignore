@@ -1,0 +1,43 @@
+# Data files (çok büyük)
+data/
+FruitsData/
+*.csv
+*.pkl
+
+# Model checkpoints (Git LFS kullan)
+checkpoints/
+*.h5
+
+# Results ve logs
+logs/
+*.log
+results/evaluation_*
+results/training_*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
